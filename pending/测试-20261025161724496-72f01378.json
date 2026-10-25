@@ -1,0 +1,19 @@
+{
+  "id": "20261025161724496-72f01378",
+  "name": "测试",
+  "author": "测试",
+  "kind": "静态",
+  "notes": "",
+  "contactEmailEncrypted": {
+    "v": 1,
+    "source": "admin",
+    "iv": "BjuOfbqsnHF3C4ZU",
+    "data": "akwYZ1NLF983yB2NBBSfqJjwORhLp7LYzmD1vsM="
+  },
+  "filename": "pending/测试-20261025161724496-72f01378.png",
+  "bytes": 565656,
+  "width": 720,
+  "height": 720,
+  "submittedAt": "2026-10-25T16:17:27.181Z",
+  "status": "pending"
+}

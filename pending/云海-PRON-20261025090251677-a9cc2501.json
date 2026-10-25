@@ -9,10 +9,14 @@
   "width": 320,
   "height": 320,
   "submittedAt": "2026-10-25T09:02:54.367Z",
-  "status": "approved",
+  "status": "withdrawn",
   "publishedName": "云海 PRON 动态 01",
   "publishedFilename": "icons/liangyou/pron-animated-01.gif",
   "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/pron-animated-01.gif",
   "publishedAt": "2026-10-25T09:03:23.689Z",
-  "reviewedAt": "2026-10-25T09:03:23.689Z"
+  "reviewedAt": "2026-10-25T16:14:07.368Z",
+  "withdrawnAt": "2026-10-25T16:13:51.402Z",
+  "withdrawnCommit": "b796bba04e405a15e5f9103f364e73b2c5455c5c",
+  "publisherVersion": "2026-10-25.batch-v4",
+  "withdrawalVerifiedAt": "2026-10-25T16:14:07.368Z"
 }

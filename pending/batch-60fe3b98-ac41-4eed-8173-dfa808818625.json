@@ -11,6 +11,14 @@
   "batchId": "017250c0-3d90-4813-9788-4a1a6c65b0a8",
   "namesConfirmed": true,
   "imageDigest": "ffd1f2dbf3f6b99df527e52e45eb229186a9c6aa69cfa6fffd3741e7902bcccd",
-  "status": "pending",
-  "submittedAt": "2026-10-26T14:08:06.545Z"
+  "status": "approved",
+  "submittedAt": "2026-10-26T14:08:06.545Z",
+  "publishedName": "Alpha-儿童",
+  "publishedFilename": "icons/liangyou/submission-batch-60fe3b98-ac41-4eed-8173-dfa808818625.jpg",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-batch-60fe3b98-ac41-4eed-8173-dfa808818625.jpg",
+  "publishedAt": "2026-10-26T14:46:39.818Z",
+  "publishedCommit": "7f73bcb5789038e07563eb44faa7e1b71412bf2c",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-10-26T14:46:45.021Z",
+  "reviewedAt": "2026-10-26T14:46:45.021Z"
 }

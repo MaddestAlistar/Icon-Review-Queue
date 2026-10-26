@@ -9,5 +9,13 @@
   "width": 720,
   "height": 720,
   "submittedAt": "2026-10-25T19:06:41.972Z",
-  "status": "pending"
+  "status": "approved",
+  "publishedName": "TOTORO",
+  "publishedFilename": "icons/liangyou/submission-20261025190638756-42c68922.png",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261025190638756-42c68922.png",
+  "publishedAt": "2026-10-26T02:41:07.712Z",
+  "publishedCommit": "d0f9023af73cd7f675a8068525603e01c194b4f5",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-10-26T02:41:12.090Z",
+  "reviewedAt": "2026-10-26T02:41:12.090Z"
 }

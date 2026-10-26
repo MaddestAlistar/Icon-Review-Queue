@@ -11,6 +11,14 @@
   "batchId": "017250c0-3d90-4813-9788-4a1a6c65b0a8",
   "namesConfirmed": true,
   "imageDigest": "f5c8d00a0133a0843034bfd5116d6a5d83d7b96eb4c1e1897f965984c9b5fd2c",
-  "status": "pending",
-  "submittedAt": "2026-10-26T14:08:17.168Z"
+  "status": "approved",
+  "submittedAt": "2026-10-26T14:08:17.168Z",
+  "publishedName": "Alpha-瑟瑟",
+  "publishedFilename": "icons/liangyou/submission-batch-238be5b5-42bd-4516-b651-bcda1fb902b7.jpg",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-batch-238be5b5-42bd-4516-b651-bcda1fb902b7.jpg",
+  "publishedAt": "2026-10-26T14:47:18.724Z",
+  "publishedCommit": "3ba2175a1227770ba01019700450b8bcd7e44ca9",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-10-26T14:47:23.871Z",
+  "reviewedAt": "2026-10-26T14:47:23.871Z"
 }

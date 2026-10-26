@@ -11,6 +11,14 @@
   "batchId": "017250c0-3d90-4813-9788-4a1a6c65b0a8",
   "namesConfirmed": true,
   "imageDigest": "a787f5bb7d6670c299b86c4e4df10f32e6ee4baa9d489581ba3da99a276d914f",
-  "status": "pending",
-  "submittedAt": "2026-10-26T14:08:21.956Z"
+  "status": "approved",
+  "submittedAt": "2026-10-26T14:08:21.956Z",
+  "publishedName": "Alpha-漫画",
+  "publishedFilename": "icons/liangyou/submission-batch-7c352a00-cd19-4a9d-9e58-85dfd948d6f8.jpg",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-batch-7c352a00-cd19-4a9d-9e58-85dfd948d6f8.jpg",
+  "publishedAt": "2026-10-26T14:47:34.262Z",
+  "publishedCommit": "3874e53d3f35a8a83df8205073f7cd7379906f4e",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-10-26T14:47:39.072Z",
+  "reviewedAt": "2026-10-26T14:47:39.072Z"
 }

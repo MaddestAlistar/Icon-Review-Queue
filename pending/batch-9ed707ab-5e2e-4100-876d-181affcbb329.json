@@ -11,6 +11,14 @@
   "batchId": "017250c0-3d90-4813-9788-4a1a6c65b0a8",
   "namesConfirmed": true,
   "imageDigest": "19c892bcbc205950c6b07fc11d713fbb4d39bc476c859c696913a1deb80aea74",
-  "status": "pending",
-  "submittedAt": "2026-10-26T14:08:11.919Z"
+  "status": "approved",
+  "submittedAt": "2026-10-26T14:08:11.919Z",
+  "publishedName": "Alpha-音乐",
+  "publishedFilename": "icons/liangyou/submission-batch-9ed707ab-5e2e-4100-876d-181affcbb329.jpg",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-batch-9ed707ab-5e2e-4100-876d-181affcbb329.jpg",
+  "publishedAt": "2026-10-26T14:46:22.529Z",
+  "publishedCommit": "a2fb75911c3e737e0a77066d4bd6b72f0e571dbe",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-10-26T14:46:27.553Z",
+  "reviewedAt": "2026-10-26T14:46:27.553Z"
 }

@@ -9,5 +9,13 @@
   "width": 1024,
   "height": 1024,
   "submittedAt": "2026-10-28T13:34:54.493Z",
-  "status": "pending"
+  "status": "approved",
+  "publishedName": "9527 Cinema 透明版",
+  "publishedFilename": "icons/liangyou/submission-20261028133451439-ce0c8893.png",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261028133451439-ce0c8893.png",
+  "publishedAt": "2026-10-28T13:35:17.143Z",
+  "publishedCommit": "c8fdbe2753c5181830c5fcfecd48416659b38dad",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-10-28T13:35:21.661Z",
+  "reviewedAt": "2026-10-28T13:35:21.661Z"
 }

@@ -32,7 +32,7 @@ def embedded_video(data: bytes) -> bytes:
         if data[pos:pos + 4] != b"ftyp":
             continue
         begin = pos - 4
-        if last_eoi < 0 or not 0 <= begin - last_eoi <= 131072 or begin < 32:
+        if last_eoi < 0 or not 0 <= begin - last_eoi <= 131072 or begin < 16:
             continue
         size = int.from_bytes(data[begin:begin + 4], "big")
         if size < 16 or size > 4096 or begin + size > len(data):

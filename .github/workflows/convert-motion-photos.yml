@@ -30,8 +30,10 @@ jobs:
         with:
           persist-credentials: true
           fetch-depth: 0
-      - name: Verify FFmpeg is available
+      - name: Install FFmpeg and FFprobe
         run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq ffmpeg
           ffmpeg -version | head -n 1
           ffprobe -version | head -n 1
       - name: Verify real JPEG-embedded MP4 converts to an animated GIF

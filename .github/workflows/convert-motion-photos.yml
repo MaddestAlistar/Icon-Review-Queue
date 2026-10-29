@@ -9,7 +9,7 @@ on:
       - '.github/workflows/convert-motion-photos.yml'
   schedule:
     # Safety net if a Worker-originated commit did not start a push workflow.
-    - cron: '17,47 * * * *'
+    - cron: '23 */6 * * *'
   workflow_dispatch:
     inputs:
       retry_failed:

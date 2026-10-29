@@ -1,7 +1,19 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-29T00:00:00.000Z",
+  "updatedAt": "2026-10-29T19:11:24.488Z",
   "items": [
+    {
+      "id": "news-ff8b2a0a-e5fb-407f-9962-524e2e021acf",
+      "category": "视频精选",
+      "title": "良友动态图标在Explayer内展示效果",
+      "content": "良友动态图标已更新至近百款。诚邀大家体验。若有任何优化建议或二创灵感，欢迎随时交流或投稿。",
+      "sourceUrl": "https://t.me/Amazing_jlqz/7309",
+      "platform": "tg",
+      "videoUrl": "https://raw.githubusercontent.com/MaddestAlistar/videos/main/clips/892403c3-2c9e-4012-8a5b-c3dd224d7b5e.mp4",
+      "posterUrl": "https://raw.githubusercontent.com/MaddestAlistar/videos/main/clips/892403c3-2c9e-4012-8a5b-c3dd224d7b5e.jpg",
+      "createdAt": "2026-10-29T19:11:24.488Z",
+      "updatedAt": "2026-10-29T19:11:24.488Z"
+    },
     {
       "id": "news-carplay-ios272",
       "category": "系统提醒",

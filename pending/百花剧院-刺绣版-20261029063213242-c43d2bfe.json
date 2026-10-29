@@ -9,5 +9,13 @@
   "width": 1024,
   "height": 1024,
   "submittedAt": "2026-10-29T06:32:18.245Z",
-  "status": "pending"
+  "status": "approved",
+  "publishedName": "百花剧院-刺绣版",
+  "publishedFilename": "icons/liangyou/submission-20261029063213242-c43d2bfe.png",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261029063213242-c43d2bfe.png",
+  "publishedAt": "2026-10-29T06:32:44.542Z",
+  "publishedCommit": "1ccc82c41040109059b065b0b917befe05fa7129",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-10-29T06:32:49.901Z",
+  "reviewedAt": "2026-10-29T06:32:49.901Z"
 }

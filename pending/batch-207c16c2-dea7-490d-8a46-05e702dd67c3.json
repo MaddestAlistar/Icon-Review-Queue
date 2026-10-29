@@ -11,6 +11,14 @@
   "batchId": "ec8b14e6-e81b-4331-a54e-beb27bb58ebd",
   "namesConfirmed": true,
   "imageDigest": "0bf42101cd7aa763a07b136dc4efeed08e9c665acba8ce5656672b5cb95a6c8d",
-  "status": "pending",
-  "submittedAt": "2026-10-29T16:23:36.899Z"
+  "status": "approved",
+  "submittedAt": "2026-10-29T16:23:36.899Z",
+  "publishedName": "宸宇-抽象版",
+  "publishedFilename": "icons/liangyou/submission-batch-207c16c2-dea7-490d-8a46-05e702dd67c3.jpg",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-batch-207c16c2-dea7-490d-8a46-05e702dd67c3.jpg",
+  "publishedAt": "2026-10-29T16:24:04.774Z",
+  "publishedCommit": "832d2a50ef635f875881556f8179f4a45cd14ac8",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-10-29T16:24:09.908Z",
+  "reviewedAt": "2026-10-29T16:24:09.908Z"
 }

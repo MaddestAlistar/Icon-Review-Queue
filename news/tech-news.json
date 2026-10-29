@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-29T19:11:24.488Z",
+  "updatedAt": "2026-10-29T21:49:46.940Z",
   "items": [
     {
       "id": "news-ff8b2a0a-e5fb-407f-9962-524e2e021acf",
@@ -19,8 +19,9 @@
       "category": "系统提醒",
       "title": "CarPlay 行车播放用户，建议暂缓升级 iOS 27.2",
       "content": "经常使用 CarPlay 行车播放的朋友，建议先别升级 27.2，等待相关兼容性确认后再更新。",
+      "newsImageUrl": "https://raw.githubusercontent.com/MaddestAlistar/videos/main/news-images/803f00c9-042c-4dbd-a540-a3121ead4285.jpg",
       "createdAt": "2026-10-29T00:00:03.000Z",
-      "updatedAt": "2026-10-29T00:00:03.000Z"
+      "updatedAt": "2026-10-29T21:49:46.940Z"
     },
     {
       "id": "news-noctra-hunpi",

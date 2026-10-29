@@ -4,6 +4,9 @@ on:
     branches: [main]
     paths:
       - 'pending/**'
+      - 'scripts/convert_motion_photos.py'
+      - 'scripts/test_motion_photo_conversion.py'
+      - '.github/workflows/convert-motion-photos.yml'
   schedule:
     # Safety net if a Worker-originated commit did not start a push workflow.
     - cron: '17,47 * * * *'
@@ -31,6 +34,8 @@ jobs:
         run: |
           ffmpeg -version | head -n 1
           ffprobe -version | head -n 1
+      - name: Verify real JPEG-embedded MP4 converts to an animated GIF
+        run: python3 scripts/test_motion_photo_conversion.py
       - name: Convert embedded video to 320px looping GIF
         env:
           RETRY_FAILED: ${{ inputs.retry_failed || 'false' }}

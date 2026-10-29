@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-29T21:52:14.500Z",
+  "updatedAt": "2026-10-29T21:53:25.350Z",
   "items": [
     {
       "id": "news-ff8b2a0a-e5fb-407f-9962-524e2e021acf",
@@ -36,10 +36,10 @@
       "id": "news-aptv-relisting",
       "category": "应用动态",
       "title": "APTV 正式版正在重新上架中",
-      "content": "正式版正在推进重新上架，测试版不受影响，并且仍在继续更新。",
+      "content": "正式版正在推进重新上架，测试版不受影响，并持续更新中。",
       "newsImageUrl": "https://raw.githubusercontent.com/MaddestAlistar/videos/main/news-images/31abbcf3-bb6d-43b1-bd2c-6900ee67b9f1.jpg",
       "createdAt": "2026-10-29T00:00:01.000Z",
-      "updatedAt": "2026-10-29T21:52:14.500Z"
+      "updatedAt": "2026-10-29T21:53:25.350Z"
     }
   ]
 }

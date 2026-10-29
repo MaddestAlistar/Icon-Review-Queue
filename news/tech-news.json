@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "updatedAt": "2026-10-29T21:49:46.940Z",
+  "updatedAt": "2026-10-29T21:51:53.404Z",
   "items": [
     {
       "id": "news-ff8b2a0a-e5fb-407f-9962-524e2e021acf",
@@ -27,9 +27,10 @@
       "id": "news-noctra-hunpi",
       "category": "联名上新",
       "title": "Noctra 与魂π的良友联名图标已上线",
-      "content": "两款良友联名图标现已推出，可以在良友联名软件板块查看。",
+      "content": "两款良友联名图标现已在 TF 版本上线，可在 APP 内修改体验。",
+      "newsImageUrl": "https://raw.githubusercontent.com/MaddestAlistar/videos/main/news-images/a77bf9c0-95d1-4e04-9bcd-277cbac00793.jpg",
       "createdAt": "2026-10-29T00:00:02.000Z",
-      "updatedAt": "2026-10-29T00:00:02.000Z"
+      "updatedAt": "2026-10-29T21:51:53.404Z"
     },
     {
       "id": "news-aptv-relisting",

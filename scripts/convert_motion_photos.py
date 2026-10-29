@@ -17,7 +17,7 @@ ROOT = Path(__file__).resolve().parents[1]
 PENDING = ROOT / "pending"
 MAX_BYTES = 10 * 1024 * 1024
 MAX_OUTPUT = 10 * 1024 * 1024
-SAFE_SOURCE = re.compile(r"^pending/[A-Za-z0-9_\-\u4e00-\u9fff]+\.(?:jpe?g)$")
+SAFE_SOURCE = re.compile(r"^pending/[A-Za-z0-9_\-\u4e00-\u9fff]+\.(?:jpe?g|mov|mp4)$")
 SAFE_META = re.compile(r"^pending/[A-Za-z0-9_\-\u4e00-\u9fff]+\.json$")
 BRANDS = {b"isom", b"iso2", b"iso5", b"iso6", b"mp41", b"mp42", b"avc1", b"qt  ", b"M4V ", b"MSNV", b"3gp4", b"3gp5", b"3gp6", b"3gp7"}
 
@@ -64,8 +64,8 @@ def probe_video(src: Path):
         raise ValueError("无法确认视频时长或时长异常")
 
 
-def convert(source: bytes) -> bytes:
-    movie = embedded_video(source)
+def convert(source: bytes, source_format="motion-jpeg") -> bytes:
+    movie = embedded_video(source) if source_format == "motion-jpeg" else source
     with tempfile.TemporaryDirectory(prefix="liangyou-motion-") as tmp:
         src = Path(tmp) / "embedded.mov"
         dst = Path(tmp) / "output.gif"
@@ -104,8 +104,7 @@ def process(meta_path: Path, retry_failed=False):
         meta = json.loads(meta_path.read_text("utf-8"))
     except (ValueError, OSError):
         return False
-    if (meta.get("motionSource") != "embedded-video"
-            or meta.get("sourceFormat") != "motion-jpeg"
+    if ((meta.get("motionSource"), meta.get("sourceFormat")) not in (("embedded-video", "motion-jpeg"), ("uploaded-video", "livephoto-video"))
             or meta.get("kind") != "动态"
             or meta.get("status") != "pending"
             or meta.get("conversionStatus") not in (["processing", "failed"] if retry_failed else ["processing"])):
@@ -118,9 +117,13 @@ def process(meta_path: Path, retry_failed=False):
         return False
     if meta.get("filename") != source_name:
         return False
+    if meta.get("sourceFormat") == "livephoto-video" and not source.suffix.lower() in (".mov", ".mp4"):
+        return False
+    if meta.get("sourceFormat") == "motion-jpeg" and source.suffix.lower() not in (".jpg", ".jpeg"):
+        return False
     output = ROOT / (source_name.rsplit(".", 1)[0] + ".gif")
     try:
-        generated = convert(source.read_bytes())
+        generated = convert(source.read_bytes(), meta["sourceFormat"])
         output.write_bytes(generated)
         meta.update(
             filename=output.relative_to(ROOT).as_posix(),

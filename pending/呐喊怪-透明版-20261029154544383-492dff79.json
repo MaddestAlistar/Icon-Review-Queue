@@ -9,5 +9,13 @@
   "width": 1024,
   "height": 1024,
   "submittedAt": "2026-10-29T15:45:46.782Z",
-  "status": "pending"
+  "status": "approved",
+  "publishedName": "呐喊怪-透明版",
+  "publishedFilename": "icons/liangyou/submission-20261029154544383-492dff79.png",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261029154544383-492dff79.png",
+  "publishedAt": "2026-10-29T15:46:09.893Z",
+  "publishedCommit": "4b0a7b4ae529018729aa37370da89c9ac02ff3bd",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-10-29T15:46:15.765Z",
+  "reviewedAt": "2026-10-29T15:46:15.765Z"
 }

@@ -1,6 +1,6 @@
 {
   "id": "20261029211521192-8214c867",
-  "name": "仅测试",
+  "name": "Lily",
   "author": "测试",
   "kind": "动态",
   "notes": "测试转换",
@@ -23,5 +23,7 @@
   "motionVideoBytes": 547300,
   "conversionStatus": "ready",
   "generatedGifUrl": "https://raw.githubusercontent.com/MaddestAlistar/Icon-Review-Queue/main/pending/仅测试-20261029211521192-8214c867.gif",
-  "convertedAt": "2026-10-29T21:16:28.850773+00:00"
+  "convertedAt": "2026-10-29T21:16:28.850773+00:00",
+  "originalSubmittedName": "仅测试",
+  "renamedAt": "2026-10-29T21:22:07.376Z"
 }

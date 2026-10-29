@@ -54,6 +54,26 @@ with tempfile.TemporaryDirectory() as folder:
         assert saved["filename"].endswith(".gif")
         assert (root / saved["filename"]).read_bytes() == generated
         assert not motion.process(meta_path), "Already converted file must be ignored"
+
+        # Apple Photos "Save as Video" output: original MOV without any JPEG.
+        video_source = "pending/test-20261030000000001-abc12345.mov"
+        (root / video_source).write_bytes(movie.read_bytes())
+        direct = motion.convert(movie.read_bytes(), "livephoto-video")
+        assert direct.startswith((b"GIF89a", b"GIF87a"))
+        video_meta = pending / "test-20261030000000001-abc12345.json"
+        video_meta.write_text(json.dumps({
+            "id": "20261030000000001-abc12345",
+            "name": "Apple Live Video", "kind": "动态", "status": "pending",
+            "filename": video_source, "sourceFilename": video_source,
+            "sourceFormat": "livephoto-video", "motionSource": "uploaded-video",
+            "conversionStatus": "processing", "bytes": movie.stat().st_size,
+            "width": 0, "height": 0
+        }), "utf-8")
+        assert motion.process(video_meta)
+        saved_video = json.loads(video_meta.read_text("utf-8"))
+        assert saved_video["conversionStatus"] == "ready"
+        assert (root / saved_video["filename"]).read_bytes() == direct
+        assert not motion.process(video_meta)
     finally:
         motion.ROOT, motion.PENDING = original_root, original_pending
 

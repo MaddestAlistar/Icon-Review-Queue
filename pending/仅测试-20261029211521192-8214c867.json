@@ -10,10 +10,10 @@
     "iv": "kskYhK9Az4KpD1Mq",
     "data": "Tye1YjZxIb7FOXsdLJmaXq1a93N5Tukj1ZV1IR8GxkQ/yMJUu7o="
   },
-  "filename": "pending/仅测试-20261029211521192-8214c867.mov",
-  "bytes": 547300,
-  "width": 0,
-  "height": 0,
+  "filename": "pending/仅测试-20261029211521192-8214c867.gif",
+  "bytes": 1396243,
+  "width": 320,
+  "height": 320,
   "submittedAt": "2026-10-29T21:15:23.093Z",
   "status": "pending",
   "sourceFormat": "livephoto-video",
@@ -21,5 +21,7 @@
   "sourceFilename": "pending/仅测试-20261029211521192-8214c867.mov",
   "sourceBytes": 547300,
   "motionVideoBytes": 547300,
-  "conversionStatus": "processing"
+  "conversionStatus": "ready",
+  "generatedGifUrl": "https://raw.githubusercontent.com/MaddestAlistar/Icon-Review-Queue/main/pending/仅测试-20261029211521192-8214c867.gif",
+  "convertedAt": "2026-10-29T21:16:28.850773+00:00"
 }

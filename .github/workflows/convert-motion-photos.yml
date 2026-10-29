@@ -1,0 +1,55 @@
+name: Convert embedded Motion Photo JPEG to review GIF
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'pending/**'
+  schedule:
+    # Safety net if a Worker-originated commit did not start a push workflow.
+    - cron: '17,47 * * * *'
+  workflow_dispatch:
+    inputs:
+      retry_failed:
+        description: Retry failed Motion Photo conversions
+        type: boolean
+        default: false
+permissions:
+  contents: write
+concurrency:
+  group: icon-review-motion-gif-convert
+  cancel-in-progress: false
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+    timeout-minutes: 18
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+          fetch-depth: 0
+      - name: Verify FFmpeg is available
+        run: |
+          ffmpeg -version | head -n 1
+          ffprobe -version | head -n 1
+      - name: Convert embedded video to 320px looping GIF
+        env:
+          RETRY_FAILED: ${{ inputs.retry_failed || 'false' }}
+        run: python3 scripts/convert_motion_photos.py
+      - name: Save GIF and updated review metadata together
+        run: |
+          set -euo pipefail
+          git add pending/
+          if git diff --staged --quiet; then
+            echo "No pending conversions"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "queue: generate review-ready Motion Photo GIFs"
+          for i in 1 2 3; do
+            git pull --rebase origin main
+            if git push origin HEAD:main; then exit 0; fi
+            sleep 3
+          done
+          echo "::error::Unable to publish conversion results; rerun workflow"
+          exit 1

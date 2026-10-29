@@ -15,7 +15,7 @@
   "width": 320,
   "height": 320,
   "submittedAt": "2026-10-29T21:15:23.093Z",
-  "status": "pending",
+  "status": "approved",
   "sourceFormat": "livephoto-video",
   "motionSource": "uploaded-video",
   "sourceFilename": "pending/仅测试-20261029211521192-8214c867.mov",
@@ -25,5 +25,13 @@
   "generatedGifUrl": "https://raw.githubusercontent.com/MaddestAlistar/Icon-Review-Queue/main/pending/仅测试-20261029211521192-8214c867.gif",
   "convertedAt": "2026-10-29T21:16:28.850773+00:00",
   "originalSubmittedName": "仅测试",
-  "renamedAt": "2026-10-29T21:22:07.376Z"
+  "renamedAt": "2026-10-29T21:22:07.376Z",
+  "publishedName": "Lily 动态 01",
+  "publishedFilename": "icons/liangyou/submission-20261029211521192-8214c867-animated.gif",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261029211521192-8214c867-animated.gif",
+  "publishedAt": "2026-10-29T21:22:37.942Z",
+  "publishedCommit": "fc04b672e50a8e1f740dfd7f0082a1bf4a922401",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-10-29T21:22:43.474Z",
+  "reviewedAt": "2026-10-29T21:22:43.474Z"
 }

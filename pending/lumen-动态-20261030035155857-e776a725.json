@@ -9,7 +9,7 @@
   "width": 320,
   "height": 320,
   "submittedAt": "2026-10-30T03:51:58.499Z",
-  "status": "pending",
+  "status": "approved",
   "sourceFormat": "livephoto-video",
   "motionSource": "uploaded-video",
   "sourceFilename": "pending/lumen-动态-20261030035155857-e776a725.mp4",
@@ -17,5 +17,13 @@
   "motionVideoBytes": 318435,
   "conversionStatus": "ready",
   "generatedGifUrl": "https://raw.githubusercontent.com/MaddestAlistar/Icon-Review-Queue/main/pending/lumen-动态-20261030035155857-e776a725.gif",
-  "convertedAt": "2026-10-30T03:53:14.395150+00:00"
+  "convertedAt": "2026-10-30T03:53:14.395150+00:00",
+  "publishedName": "lumen- 动态 01",
+  "publishedFilename": "icons/liangyou/submission-20261030035155857-e776a725-animated.gif",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261030035155857-e776a725-animated.gif",
+  "publishedAt": "2026-10-30T03:59:12.613Z",
+  "publishedCommit": "bccc246d6ee630eae70bda816c2ca6707bb16100",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-10-30T03:59:16.871Z",
+  "reviewedAt": "2026-10-30T03:59:16.871Z"
 }

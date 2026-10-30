@@ -9,7 +9,7 @@
   "width": 320,
   "height": 320,
   "submittedAt": "2026-10-30T17:12:15.541Z",
-  "status": "pending",
+  "status": "approved",
   "sourceFormat": "livephoto-video",
   "motionSource": "uploaded-video",
   "sourceFilename": "pending/宇小紫-影视-动态-20261030171212603-28a2ab66.mp4",
@@ -17,5 +17,13 @@
   "motionVideoBytes": 455907,
   "conversionStatus": "ready",
   "generatedGifUrl": "https://raw.githubusercontent.com/MaddestAlistar/Icon-Review-Queue/main/pending/宇小紫-影视-动态-20261030171212603-28a2ab66.gif",
-  "convertedAt": "2026-10-30T17:13:19.096595+00:00"
+  "convertedAt": "2026-10-30T17:13:19.096595+00:00",
+  "publishedName": "宇小紫-影视-动态 01",
+  "publishedFilename": "icons/liangyou/submission-20261030171212603-28a2ab66-animated.gif",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261030171212603-28a2ab66-animated.gif",
+  "publishedAt": "2026-10-30T17:13:45.020Z",
+  "publishedCommit": "bb4593db1ec657d62b1010722e117dc7e36d37a9",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-10-30T17:13:50.464Z",
+  "reviewedAt": "2026-10-30T17:13:50.464Z"
 }

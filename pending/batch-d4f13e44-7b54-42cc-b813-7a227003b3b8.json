@@ -11,6 +11,14 @@
   "batchId": "9810b59f-1ee7-4f74-9521-229b6e649bb7",
   "namesConfirmed": true,
   "imageDigest": "d4da2200740b25846268303595f8823290c106beaf2a3475d007663dcf2629e6",
-  "status": "pending",
-  "submittedAt": "2026-10-30T16:50:14.272Z"
+  "status": "approved",
+  "submittedAt": "2026-10-30T16:50:14.272Z",
+  "publishedName": "宇小紫-影视",
+  "publishedFilename": "icons/liangyou/submission-batch-d4f13e44-7b54-42cc-b813-7a227003b3b8.jpg",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-batch-d4f13e44-7b54-42cc-b813-7a227003b3b8.jpg",
+  "publishedAt": "2026-10-30T16:53:33.448Z",
+  "publishedCommit": "9edf55be88803946a5087a3e337275d3cd7c5f69",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-10-30T16:53:38.743Z",
+  "reviewedAt": "2026-10-30T16:53:38.743Z"
 }

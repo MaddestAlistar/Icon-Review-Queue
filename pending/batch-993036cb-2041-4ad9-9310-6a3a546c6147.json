@@ -11,6 +11,14 @@
   "batchId": "9810b59f-1ee7-4f74-9521-229b6e649bb7",
   "namesConfirmed": true,
   "imageDigest": "20fcb8e8673543bdd4122f84d8b0da1bb113e8d0f542fe8e9e508cff8b533758",
-  "status": "pending",
-  "submittedAt": "2026-10-30T16:50:08.816Z"
+  "status": "approved",
+  "submittedAt": "2026-10-30T16:50:08.816Z",
+  "publishedName": "澄小橘-影视",
+  "publishedFilename": "icons/liangyou/submission-batch-993036cb-2041-4ad9-9310-6a3a546c6147.jpg",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-batch-993036cb-2041-4ad9-9310-6a3a546c6147.jpg",
+  "publishedAt": "2026-10-30T16:53:50.182Z",
+  "publishedCommit": "f1c2bd87523e8a82de4b759dfdca30e9fa3af864",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-10-30T16:53:54.595Z",
+  "reviewedAt": "2026-10-30T16:53:54.595Z"
 }

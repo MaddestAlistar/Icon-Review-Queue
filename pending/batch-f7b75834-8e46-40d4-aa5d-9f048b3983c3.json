@@ -11,6 +11,14 @@
   "batchId": "9810b59f-1ee7-4f74-9521-229b6e649bb7",
   "namesConfirmed": true,
   "imageDigest": "437e640683c34e2045f262c59cb10bd3143898fe456484c5e66ef2881980fd8f",
-  "status": "pending",
-  "submittedAt": "2026-10-30T16:52:45.495Z"
+  "status": "approved",
+  "submittedAt": "2026-10-30T16:52:45.495Z",
+  "publishedName": "宇小紫-音乐",
+  "publishedFilename": "icons/liangyou/submission-batch-f7b75834-8e46-40d4-aa5d-9f048b3983c3.jpg",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-batch-f7b75834-8e46-40d4-aa5d-9f048b3983c3.jpg",
+  "publishedAt": "2026-10-30T16:54:05.831Z",
+  "publishedCommit": "beb92a41d0af83b3ecae9bb9c6f8a21b2d5cdc2c",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-10-30T16:54:10.183Z",
+  "reviewedAt": "2026-10-30T16:54:10.183Z"
 }

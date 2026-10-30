@@ -9,7 +9,7 @@
   "width": 320,
   "height": 320,
   "submittedAt": "2026-10-30T17:12:59.444Z",
-  "status": "pending",
+  "status": "approved",
   "sourceFormat": "livephoto-video",
   "motionSource": "uploaded-video",
   "sourceFilename": "pending/澄小橘-瑟瑟-动态-20261030171257104-337ec627.mp4",
@@ -17,5 +17,13 @@
   "motionVideoBytes": 295091,
   "conversionStatus": "ready",
   "generatedGifUrl": "https://raw.githubusercontent.com/MaddestAlistar/Icon-Review-Queue/main/pending/澄小橘-瑟瑟-动态-20261030171257104-337ec627.gif",
-  "convertedAt": "2026-10-30T17:14:29.247800+00:00"
+  "convertedAt": "2026-10-30T17:14:29.247800+00:00",
+  "publishedName": "澄小橘-瑟瑟-动态 01",
+  "publishedFilename": "icons/liangyou/submission-20261030171257104-337ec627-animated.gif",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261030171257104-337ec627-animated.gif",
+  "publishedAt": "2026-10-30T17:15:53.688Z",
+  "publishedCommit": "e1a9fcf97e31533dddfb18f029e1a042ce8bcb17",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-10-30T17:16:00.260Z",
+  "reviewedAt": "2026-10-30T17:16:00.260Z"
 }

@@ -4,10 +4,10 @@
   "author": "黄豆",
   "kind": "动态",
   "notes": "",
-  "filename": "pending/lumen-动态-20261030035155857-e776a725.mp4",
-  "bytes": 318435,
-  "width": 0,
-  "height": 0,
+  "filename": "pending/lumen-动态-20261030035155857-e776a725.gif",
+  "bytes": 1336862,
+  "width": 320,
+  "height": 320,
   "submittedAt": "2026-10-30T03:51:58.499Z",
   "status": "pending",
   "sourceFormat": "livephoto-video",
@@ -15,5 +15,7 @@
   "sourceFilename": "pending/lumen-动态-20261030035155857-e776a725.mp4",
   "sourceBytes": 318435,
   "motionVideoBytes": 318435,
-  "conversionStatus": "processing"
+  "conversionStatus": "ready",
+  "generatedGifUrl": "https://raw.githubusercontent.com/MaddestAlistar/Icon-Review-Queue/main/pending/lumen-动态-20261030035155857-e776a725.gif",
+  "convertedAt": "2026-10-30T03:53:14.395150+00:00"
 }

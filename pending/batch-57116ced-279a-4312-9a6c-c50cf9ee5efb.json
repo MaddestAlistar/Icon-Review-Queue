@@ -11,6 +11,14 @@
   "batchId": "9810b59f-1ee7-4f74-9521-229b6e649bb7",
   "namesConfirmed": true,
   "imageDigest": "a4768ee018f3572f9db8d0672fa92f3aa10feb74dd65634d10134020ca22c5ab",
-  "status": "pending",
-  "submittedAt": "2026-10-30T16:49:56.896Z"
+  "status": "approved",
+  "submittedAt": "2026-10-30T16:49:56.896Z",
+  "publishedName": "澄小橘-瑟瑟",
+  "publishedFilename": "icons/liangyou/submission-batch-57116ced-279a-4312-9a6c-c50cf9ee5efb.jpg",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-batch-57116ced-279a-4312-9a6c-c50cf9ee5efb.jpg",
+  "publishedAt": "2026-10-30T16:54:30.942Z",
+  "publishedCommit": "9eec8ca6091e05592cd239aa13e5f797d7347709",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-10-30T16:54:35.407Z",
+  "reviewedAt": "2026-10-30T16:54:35.407Z"
 }

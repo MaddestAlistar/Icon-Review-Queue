@@ -11,6 +11,14 @@
   "batchId": "9810b59f-1ee7-4f74-9521-229b6e649bb7",
   "namesConfirmed": true,
   "imageDigest": "5c3a963a61bd53b163c7566e6d6a8bdb7b0d84e25e5c4ccf344a178cfef2fdf6",
-  "status": "pending",
-  "submittedAt": "2026-10-30T16:50:02.887Z"
+  "status": "approved",
+  "submittedAt": "2026-10-30T16:50:02.887Z",
+  "publishedName": "澄小橘-音乐",
+  "publishedFilename": "icons/liangyou/submission-batch-c9b60511-fd27-42e1-bcf3-a17fbb821887.jpg",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-batch-c9b60511-fd27-42e1-bcf3-a17fbb821887.jpg",
+  "publishedAt": "2026-10-30T16:54:18.032Z",
+  "publishedCommit": "fec2ca1cf625b4693e30fb8321734d9c40ab1201",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-10-30T16:54:22.818Z",
+  "reviewedAt": "2026-10-30T16:54:22.818Z"
 }

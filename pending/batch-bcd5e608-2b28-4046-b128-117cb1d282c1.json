@@ -11,6 +11,14 @@
   "batchId": "9810b59f-1ee7-4f74-9521-229b6e649bb7",
   "namesConfirmed": true,
   "imageDigest": "ea0ab57bbfb960b225cb9a34c3f6f00b4a69fa5908339aa0308d90c00b4bac72",
-  "status": "pending",
-  "submittedAt": "2026-10-30T16:52:51.299Z"
+  "status": "approved",
+  "submittedAt": "2026-10-30T16:52:51.299Z",
+  "publishedName": "宇小紫-瑟瑟",
+  "publishedFilename": "icons/liangyou/submission-batch-bcd5e608-2b28-4046-b128-117cb1d282c1.jpg",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-batch-bcd5e608-2b28-4046-b128-117cb1d282c1.jpg",
+  "publishedAt": "2026-10-30T16:53:19.264Z",
+  "publishedCommit": "23027628cd858ae844d8d2240e22f0affcf633f1",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-10-30T16:53:24.691Z",
+  "reviewedAt": "2026-10-30T16:53:24.691Z"
 }

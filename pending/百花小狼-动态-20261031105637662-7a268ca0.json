@@ -9,7 +9,7 @@
   "width": 320,
   "height": 320,
   "submittedAt": "2026-10-31T10:56:40.269Z",
-  "status": "pending",
+  "status": "approved",
   "sourceFormat": "livephoto-video",
   "motionSource": "uploaded-video",
   "sourceFilename": "pending/百花小狼-动态-20261031105637662-7a268ca0.mp4",
@@ -17,5 +17,13 @@
   "motionVideoBytes": 481206,
   "conversionStatus": "ready",
   "generatedGifUrl": "https://raw.githubusercontent.com/MaddestAlistar/Icon-Review-Queue/main/pending/百花小狼-动态-20261031105637662-7a268ca0.gif",
-  "convertedAt": "2026-10-31T10:57:42.295924+00:00"
+  "convertedAt": "2026-10-31T10:57:42.295924+00:00",
+  "publishedName": "百花小狼-动态 01",
+  "publishedFilename": "icons/liangyou/submission-20261031105637662-7a268ca0-animated.gif",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261031105637662-7a268ca0-animated.gif",
+  "publishedAt": "2026-10-31T10:59:14.355Z",
+  "publishedCommit": "041f4e707b492026f6d6a7e222f6e5db4d9502ee",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-10-31T10:59:19.728Z",
+  "reviewedAt": "2026-10-31T10:59:19.728Z"
 }

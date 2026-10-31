@@ -9,5 +9,13 @@
   "width": 1024,
   "height": 1024,
   "submittedAt": "2026-10-31T10:53:10.335Z",
-  "status": "pending"
+  "status": "approved",
+  "publishedName": "百花小狼",
+  "publishedFilename": "icons/liangyou/submission-20261031105307796-9acba6c2.jpg",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261031105307796-9acba6c2.jpg",
+  "publishedAt": "2026-10-31T10:57:32.782Z",
+  "publishedCommit": "fda991b2ecf459d74fee74a671d170bca0d4021c",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-10-31T10:57:37.689Z",
+  "reviewedAt": "2026-10-31T10:57:37.689Z"
 }

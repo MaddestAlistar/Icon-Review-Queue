@@ -9,5 +9,13 @@
   "width": 1024,
   "height": 1024,
   "submittedAt": "2026-11-02T12:29:56.577Z",
-  "status": "pending"
+  "status": "approved",
+  "publishedName": "海豚-玩偶",
+  "publishedFilename": "icons/liangyou/submission-20261102122953509-75642e60.png",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261102122953509-75642e60.png",
+  "publishedAt": "2026-11-02T12:30:19.171Z",
+  "publishedCommit": "7d5beb63640d25bfbbd04422eca96569fa62e853",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-11-02T12:30:24.109Z",
+  "reviewedAt": "2026-11-02T12:30:24.109Z"
 }

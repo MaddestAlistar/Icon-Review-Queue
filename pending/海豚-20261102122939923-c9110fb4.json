@@ -9,5 +9,13 @@
   "width": 1024,
   "height": 1024,
   "submittedAt": "2026-11-02T12:29:42.517Z",
-  "status": "pending"
+  "status": "approved",
+  "publishedName": "海豚",
+  "publishedFilename": "icons/liangyou/submission-20261102122939923-c9110fb4.png",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261102122939923-c9110fb4.png",
+  "publishedAt": "2026-11-02T12:30:35.116Z",
+  "publishedCommit": "2f231c22958b5850c522006738b5fba2808adfe0",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-11-02T12:30:40.467Z",
+  "reviewedAt": "2026-11-02T12:30:40.467Z"
 }

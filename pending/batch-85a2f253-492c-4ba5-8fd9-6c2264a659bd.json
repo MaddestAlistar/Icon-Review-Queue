@@ -11,6 +11,14 @@
   "batchId": "70ac8293-c3c3-4867-b32e-2d5ca834e729",
   "namesConfirmed": true,
   "imageDigest": "191cd183f27730c6fbd126100652465726dc8b70914f790ac196515ae3c48e71",
-  "status": "pending",
-  "submittedAt": "2026-11-02T01:47:08.781Z"
+  "status": "approved",
+  "submittedAt": "2026-11-02T01:47:08.781Z",
+  "publishedName": "rex-小恐龙-4",
+  "publishedFilename": "icons/liangyou/submission-batch-85a2f253-492c-4ba5-8fd9-6c2264a659bd.png",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-batch-85a2f253-492c-4ba5-8fd9-6c2264a659bd.png",
+  "publishedAt": "2026-11-02T01:48:03.029Z",
+  "publishedCommit": "7538070edf0b6b61ff6959acad1b2c1a218c4989",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-11-02T01:48:08.552Z",
+  "reviewedAt": "2026-11-02T01:48:08.552Z"
 }

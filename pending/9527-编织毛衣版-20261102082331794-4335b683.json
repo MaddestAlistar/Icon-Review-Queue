@@ -9,5 +9,13 @@
   "width": 1024,
   "height": 1024,
   "submittedAt": "2026-11-02T08:23:35.056Z",
-  "status": "pending"
+  "status": "approved",
+  "publishedName": "9527-编织毛衣版",
+  "publishedFilename": "icons/liangyou/submission-20261102082331794-4335b683.png",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261102082331794-4335b683.png",
+  "publishedAt": "2026-11-02T08:24:01.190Z",
+  "publishedCommit": "a87759e64108b7faf80c4e592b26ca67aedb4e39",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-11-02T08:24:06.386Z",
+  "reviewedAt": "2026-11-02T08:24:06.386Z"
 }

@@ -9,5 +9,13 @@
   "width": 1024,
   "height": 1024,
   "submittedAt": "2026-11-02T08:23:10.117Z",
-  "status": "pending"
+  "status": "approved",
+  "publishedName": "9527-光栅版",
+  "publishedFilename": "icons/liangyou/submission-20261102082306833-8b444497.png",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261102082306833-8b444497.png",
+  "publishedAt": "2026-11-02T08:24:18.252Z",
+  "publishedCommit": "cbcf9cfd5315c35dfe9607784e0261d77c489226",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-11-02T08:24:23.547Z",
+  "reviewedAt": "2026-11-02T08:24:23.547Z"
 }

@@ -9,7 +9,7 @@
   "width": 320,
   "height": 320,
   "submittedAt": "2026-11-08T18:24:28.941Z",
-  "status": "pending",
+  "status": "approved",
   "sourceFormat": "livephoto-video",
   "motionSource": "uploaded-video",
   "sourceFilename": "pending/乐蛙-葫芦娃-动态-20261108182427098-227f82d1.mp4",
@@ -17,5 +17,13 @@
   "motionVideoBytes": 495297,
   "conversionStatus": "ready",
   "generatedGifUrl": "https://raw.githubusercontent.com/MaddestAlistar/Icon-Review-Queue/main/pending/乐蛙-葫芦娃-动态-20261108182427098-227f82d1.gif",
-  "convertedAt": "2026-11-08T18:25:33.213415+00:00"
+  "convertedAt": "2026-11-08T18:25:33.213415+00:00",
+  "publishedName": "乐蛙-葫芦娃-动态 01",
+  "publishedFilename": "icons/liangyou/submission-20261108182427098-227f82d1-animated.gif",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261108182427098-227f82d1-animated.gif",
+  "publishedAt": "2026-11-08T18:27:07.466Z",
+  "publishedCommit": "284d1d6aeafab84c40b4dee21195a2692cf2bddf",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-11-08T18:27:10.143Z",
+  "reviewedAt": "2026-11-08T18:27:10.143Z"
 }

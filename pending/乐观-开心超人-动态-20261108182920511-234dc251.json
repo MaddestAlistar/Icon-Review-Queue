@@ -9,7 +9,7 @@
   "width": 320,
   "height": 320,
   "submittedAt": "2026-11-08T18:29:21.939Z",
-  "status": "pending",
+  "status": "approved",
   "sourceFormat": "livephoto-video",
   "motionSource": "uploaded-video",
   "sourceFilename": "pending/乐观-开心超人-动态-20261108182920511-234dc251.mp4",
@@ -17,5 +17,13 @@
   "motionVideoBytes": 266145,
   "conversionStatus": "ready",
   "generatedGifUrl": "https://raw.githubusercontent.com/MaddestAlistar/Icon-Review-Queue/main/pending/乐观-开心超人-动态-20261108182920511-234dc251.gif",
-  "convertedAt": "2026-11-08T18:30:32.806935+00:00"
+  "convertedAt": "2026-11-08T18:30:32.806935+00:00",
+  "publishedName": "乐观-开心超人-动态 01",
+  "publishedFilename": "icons/liangyou/submission-20261108182920511-234dc251-animated.gif",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261108182920511-234dc251-animated.gif",
+  "publishedAt": "2026-11-08T18:31:10.220Z",
+  "publishedCommit": "30c0d3dcbf6feef60002c8966e542262fe6dbfbf",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-11-08T18:31:12.890Z",
+  "reviewedAt": "2026-11-08T18:31:12.890Z"
 }

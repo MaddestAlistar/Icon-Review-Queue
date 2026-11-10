@@ -58,7 +58,61 @@
       "reviewNote": "",
       "reviewedAt": "2026-11-10T08:49:35.263Z",
       "publishedAt": "2026-11-10T08:49:35.263Z"
+    },
+    {
+      "id": "wiki-70946488-b7d6-43cf-aaa0-10aabe0c16ca",
+      "name": "Ember",
+      "nature": "公益服",
+      "state": "正常运营",
+      "contents": [
+        "电影",
+        "电视剧",
+        "动漫",
+        "综艺",
+        "纪录片",
+        "短剧"
+      ],
+      "qualities": [
+        "4K",
+        "原盘 / REMUX",
+        "HDR10",
+        "HDR10+",
+        "杜比视界"
+      ],
+      "registration": "活动、抽奖",
+      "nickname": "黄豆",
+      "submissionDate": "2026-11-11",
+      "statsDate": "2026-11-11",
+      "movies": 2017,
+      "series": 823,
+      "episodes": 25773,
+      "moviesWithVersions": 29103,
+      "seriesWithVersions": 8863,
+      "episodesWithVersions": 339062,
+      "others": null,
+      "summary": "Ember硬盘追新 + 网盘服\n硬盘资源采用公益形式，观看保号。\n公费资源则是硬盘 + 网盘 结合。",
+      "network": "",
+      "pricing": "公益开号-HK$36",
+      "statsNote": "",
+      "extraContent": "",
+      "extraQuality": "",
+      "retention": "30 天观影",
+      "role": "管理员",
+      "website": "https://ember.zzix.de/",
+      "channel": "https://t.me/ember_emby",
+      "group": "https://t.me/ember_emby_chat",
+      "bot": "https://t.me/NextNewEP_emby_bot",
+      "evidence": "",
+      "coverUrl": "https://raw.githubusercontent.com/MaddestAlistar/Icon-Review-Queue/main/emby-wiki/covers/wiki-70946488-b7d6-43cf-aaa0-10aabe0c16ca.jpg",
+      "evidenceImageUrl": "https://raw.githubusercontent.com/MaddestAlistar/Icon-Review-Queue/main/emby-wiki/evidence/wiki-70946488-b7d6-43cf-aaa0-10aabe0c16ca.jpg",
+      "status": "pending",
+      "version": 1,
+      "submittedAt": "2026-11-10T18:18:05.715Z",
+      "updatedAt": "2026-11-10T18:18:05.715Z",
+      "digest": "6e8226cf5484c8b84172f586449e6f828e5bb335bc159d4b72c775dfcebee9f0",
+      "clientTag": "a4ccb81afeaaba45abc3ab57cf53b42a966e8ec872718d363d8f3ed98521f996",
+      "reviewNote": ""
     }
   ],
-  "updatedAt": "2026-11-10T08:49:35.263Z"
+  "updatedAt": "2026-11-10T18:18:05.715Z"
 }

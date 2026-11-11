@@ -114,7 +114,61 @@
       "reviewNote": "",
       "reviewedAt": "2026-11-10T18:19:18.493Z",
       "publishedAt": "2026-11-10T18:19:18.493Z"
+    },
+    {
+      "id": "wiki-22cfacff-e4f1-43d1-92de-462edb664e06",
+      "name": "SNTP Standard",
+      "nature": "机场服",
+      "state": "正常运营",
+      "contents": [
+        "电影",
+        "电视剧",
+        "动漫",
+        "综艺",
+        "纪录片",
+        "短剧"
+      ],
+      "qualities": [
+        "4K",
+        "原盘 / REMUX",
+        "HDR10",
+        "HDR10+",
+        "杜比视界"
+      ],
+      "registration": "付费",
+      "nickname": "amazing",
+      "submissionDate": "2026-11-11",
+      "statsDate": "2026-11-11",
+      "movies": 19852,
+      "series": 28665,
+      "episodes": 3441635,
+      "moviesWithVersions": 19851,
+      "seriesWithVersions": 286601,
+      "episodesWithVersions": 3440599,
+      "others": null,
+      "summary": "",
+      "network": "机场服不保直连，公益服需要代理",
+      "pricing": "月付18元，即可获得2个sntp服，一个机场服，一个公益服",
+      "statsNote": "",
+      "extraContent": "",
+      "extraQuality": "",
+      "retention": "同机场到期时间，无需保号",
+      "role": "普通用户",
+      "website": "https://push.shvip888.com/",
+      "channel": "https://t.me/SHWLGROUP",
+      "group": "https://t.me/SNTP_Media_Lite_v3",
+      "bot": "https://t.me/sntp_vip_bot",
+      "evidence": "",
+      "coverUrl": "https://raw.githubusercontent.com/MaddestAlistar/Icon-Review-Queue/main/emby-wiki/covers/wiki-22cfacff-e4f1-43d1-92de-462edb664e06.jpg",
+      "evidenceImageUrl": "https://raw.githubusercontent.com/MaddestAlistar/Icon-Review-Queue/main/emby-wiki/evidence/wiki-22cfacff-e4f1-43d1-92de-462edb664e06.jpg",
+      "status": "pending",
+      "version": 1,
+      "submittedAt": "2026-11-11T15:43:57.690Z",
+      "updatedAt": "2026-11-11T15:43:57.690Z",
+      "digest": "367d3f6b6ec37217c7a16bf77ca0bd7ed5728f350f7be59c3eab056e1ac48c8a",
+      "clientTag": "a4ccb81afeaaba45abc3ab57cf53b42a966e8ec872718d363d8f3ed98521f996",
+      "reviewNote": ""
     }
   ],
-  "updatedAt": "2026-11-10T18:21:43.736Z"
+  "updatedAt": "2026-11-11T15:43:57.690Z"
 }

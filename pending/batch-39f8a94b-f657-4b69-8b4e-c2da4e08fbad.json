@@ -11,6 +11,14 @@
   "batchId": "9f16ee36-53ca-4c0e-a209-459d8ad81e75",
   "namesConfirmed": true,
   "imageDigest": "8d2adcbd44e6f6fcfa0a6be380921f3a872a483e53d3ecf7315dad09612b502a",
-  "status": "pending",
-  "submittedAt": "2026-11-11T07:24:17.730Z"
+  "status": "approved",
+  "submittedAt": "2026-11-11T07:24:17.730Z",
+  "publishedName": "蛋黄酱",
+  "publishedFilename": "icons/liangyou/submission-batch-39f8a94b-f657-4b69-8b4e-c2da4e08fbad.png",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-batch-39f8a94b-f657-4b69-8b4e-c2da4e08fbad.png",
+  "publishedAt": "2026-11-11T07:25:18.933Z",
+  "publishedCommit": "c4cfcf67adbf2eda32d8977b5eb487aed9fb6d52",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-11-11T07:25:25.395Z",
+  "reviewedAt": "2026-11-11T07:25:25.395Z"
 }

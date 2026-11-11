@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-11T20:08:42.946Z",
+  "updatedAt": "2026-11-11T20:10:21.867Z",
   "reviews": [
     {
       "id": "senplayer",
@@ -57,10 +57,10 @@
         99,
         93
       ],
-      "review": "APTV 的实时频道预览、EPG 节目单、分类收藏和 iCloud 同步让 IPTV 播放体验很完整，覆盖 iPhone、iPad、Mac 和 Apple TV 等设备。测试版也提供 CarPlay 车机视频播放相关功能，适合希望跨屏观看直播的用户。",
+      "review": "APTV 的实时频道预览、EPG 节目单、分类收藏和 iCloud 同步让 IPTV 播放体验很完整，覆盖 iPhone、iPad、Mac 和 Apple TV 等设备。测试版也提供 CarPlay 行车播放相关功能，跨设备使用方便。",
       "status": "published",
       "order": 2,
-      "updatedAt": "2026-11-11T20:08:42.946Z"
+      "updatedAt": "2026-11-11T20:10:21.867Z"
     },
     {
       "id": "tubo",
@@ -88,10 +88,10 @@
         98,
         94
       ],
-      "review": "途播不仅支持 IPTV 频道导入、预览和分类收藏，也可接入 Emby 私人媒体库。车机浏览器与投屏功能拓展了车载使用场景；官方说明 iOS 27.2 及以上系统的 CarPlay 视频功能可通过途播 Beta 版使用。",
+      "review": "途播支持 M3U/M3U8/TXT 频道导入、预览、分类收藏，也能导入 Emby 私人媒体库。车机浏览器和投屏功能丰富了 CarPlay 使用场景；iOS 27.2 及以上系统的行车播放，途播 Beta 版已支持。",
       "status": "published",
       "order": 3,
-      "updatedAt": "2026-11-11T20:08:42.946Z"
+      "updatedAt": "2026-11-11T20:10:21.867Z"
     },
     {
       "id": "shangdaoji",

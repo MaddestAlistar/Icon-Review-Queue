@@ -1,0 +1,16 @@
+{
+  "id": "batch-9e8e8401-f0a8-4e54-8c43-8b16b3a1d3f2",
+  "name": "蛋卷",
+  "author": "黄豆",
+  "notes": "",
+  "kind": "静态",
+  "filename": "pending/batch-9e8e8401-f0a8-4e54-8c43-8b16b3a1d3f2.png",
+  "bytes": 815130,
+  "width": 1024,
+  "height": 1024,
+  "batchId": "9f16ee36-53ca-4c0e-a209-459d8ad81e75",
+  "namesConfirmed": true,
+  "imageDigest": "b144e476b43709598f652a770496dfc9a224a542ec1c11fe3c612b7edb95a9d1",
+  "status": "pending",
+  "submittedAt": "2026-11-11T07:24:24.191Z"
+}

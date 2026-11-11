@@ -1,0 +1,16 @@
+{
+  "id": "batch-39f8a94b-f657-4b69-8b4e-c2da4e08fbad",
+  "name": "蛋黄酱",
+  "author": "黄豆",
+  "notes": "",
+  "kind": "静态",
+  "filename": "pending/batch-39f8a94b-f657-4b69-8b4e-c2da4e08fbad.png",
+  "bytes": 733409,
+  "width": 1024,
+  "height": 1024,
+  "batchId": "9f16ee36-53ca-4c0e-a209-459d8ad81e75",
+  "namesConfirmed": true,
+  "imageDigest": "8d2adcbd44e6f6fcfa0a6be380921f3a872a483e53d3ecf7315dad09612b502a",
+  "status": "pending",
+  "submittedAt": "2026-11-11T07:24:17.730Z"
+}

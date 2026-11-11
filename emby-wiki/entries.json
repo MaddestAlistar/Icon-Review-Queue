@@ -161,14 +161,16 @@
       "evidence": "",
       "coverUrl": "https://raw.githubusercontent.com/MaddestAlistar/Icon-Review-Queue/main/emby-wiki/covers/wiki-22cfacff-e4f1-43d1-92de-462edb664e06.jpg",
       "evidenceImageUrl": "https://raw.githubusercontent.com/MaddestAlistar/Icon-Review-Queue/main/emby-wiki/evidence/wiki-22cfacff-e4f1-43d1-92de-462edb664e06.jpg",
-      "status": "pending",
-      "version": 1,
+      "status": "approved",
+      "version": 2,
       "submittedAt": "2026-11-11T15:43:57.690Z",
-      "updatedAt": "2026-11-11T15:43:57.690Z",
+      "updatedAt": "2026-11-11T15:44:44.624Z",
       "digest": "367d3f6b6ec37217c7a16bf77ca0bd7ed5728f350f7be59c3eab056e1ac48c8a",
       "clientTag": "a4ccb81afeaaba45abc3ab57cf53b42a966e8ec872718d363d8f3ed98521f996",
-      "reviewNote": ""
+      "reviewNote": "",
+      "reviewedAt": "2026-11-11T15:44:44.624Z",
+      "publishedAt": "2026-11-11T15:44:44.624Z"
     }
   ],
-  "updatedAt": "2026-11-11T15:43:57.690Z"
+  "updatedAt": "2026-11-11T15:44:44.624Z"
 }

@@ -47,16 +47,16 @@
       "group": "https://t.me/ownemby",
       "bot": "https://t.me/ownmedialist_bot",
       "evidence": "",
-      "coverUrl": "https://raw.githubusercontent.com/MaddestAlistar/Icon-Review-Queue/main/emby-wiki/covers/wiki-50127237-bfa1-4a92-8fc3-de91ac32e1f6.jpg",
+      "coverUrl": "https://raw.githubusercontent.com/MaddestAlistar/Icon-Review-Queue/main/emby-wiki/covers/wiki-50127237-bfa1-4a92-8fc3-de91ac32e1f6-rf4384734ab15.jpg",
       "evidenceImageUrl": "",
       "status": "approved",
-      "version": 3,
+      "version": 4,
       "submittedAt": "2026-11-10T08:46:26.949Z",
-      "updatedAt": "2026-11-10T18:21:43.736Z",
+      "updatedAt": "2026-11-11T15:46:33.742Z",
       "digest": "711488d0a5157c79f2ece531e0c8d408e7c5ad2851e17b5afcd81dc489816e59",
       "clientTag": "36c0934f7bf6859b1c6cdfa5f923e7cbe3620594c146a0b211771a8b0f8900c6",
       "reviewNote": "",
-      "reviewedAt": "2026-11-10T18:21:43.736Z",
+      "reviewedAt": "2026-11-11T15:46:33.742Z",
       "publishedAt": "2026-11-10T08:49:35.263Z"
     },
     {
@@ -172,5 +172,5 @@
       "publishedAt": "2026-11-11T15:44:44.624Z"
     }
   ],
-  "updatedAt": "2026-11-11T15:44:44.624Z"
+  "updatedAt": "2026-11-11T15:46:33.742Z"
 }

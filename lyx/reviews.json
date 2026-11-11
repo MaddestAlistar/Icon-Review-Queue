@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-11T19:45:56.930Z",
+  "updatedAt": "2026-11-11T20:08:42.946Z",
   "reviews": [
     {
       "id": "senplayer",
@@ -57,10 +57,10 @@
         99,
         93
       ],
-      "review": "APTV 把频道实时预览、EPG 节目单、分组管理与多端同步做成一套完整的 IPTV 体验，找频道和切台都很直观。Apple TV、iPhone 与 Mac 之间的使用衔接是亮点；直播效果仍取决于所导入的频道源。",
+      "review": "APTV 的实时频道预览、EPG 节目单、分类收藏和 iCloud 同步让 IPTV 播放体验很完整，覆盖 iPhone、iPad、Mac 和 Apple TV 等设备。测试版也提供 CarPlay 车机视频播放相关功能，适合希望跨屏观看直播的用户。",
       "status": "published",
       "order": 2,
-      "updatedAt": "2026-11-11T19:45:56.930Z"
+      "updatedAt": "2026-11-11T20:08:42.946Z"
     },
     {
       "id": "tubo",
@@ -70,14 +70,15 @@
       "version": "",
       "platform": "iOS / iPadOS / macOS / tvOS / watchOS",
       "icon": "assets/collabs/tubo.webp",
-      "summary": "简洁的 IPTV 播放器，支持导入 M3U、M3U8、TXT 源、频道预览、分类收藏和 Apple 多端使用。",
+      "summary": "支持 M3U/M3U8/TXT 直播列表、Emby 媒体库、频道预览及分类管理，并扩展 CarPlay 车机浏览器与投屏体验。",
       "tagline": "IPTV 管理 · 频道预览 · Apple 多端",
       "tags": [
         "良友联名",
-        "IPTV",
+        "Emby",
+        "行车播放",
+        "CarPlay",
         "频道预览",
-        "Apple TV",
-        "CarPlay"
+        "投屏"
       ],
       "scores": [
         97,
@@ -87,10 +88,10 @@
         98,
         94
       ],
-      "review": "途播的 IPTV 入口简洁，M3U、M3U8、TXT 源导入、频道预览及分类收藏都很方便，Apple 多端适配也提升了使用灵活性。针对 CarPlay 的功能探索很有特色，实际可用范围需以系统与车机兼容情况为准，车载视频只宜停车时使用。",
+      "review": "途播不仅支持 IPTV 频道导入、预览和分类收藏，也可接入 Emby 私人媒体库。车机浏览器与投屏功能拓展了车载使用场景；官方说明 iOS 27.2 及以上系统的 CarPlay 视频功能可通过途播 Beta 版使用。",
       "status": "published",
       "order": 3,
-      "updatedAt": "2026-11-11T19:45:56.930Z"
+      "updatedAt": "2026-11-11T20:08:42.946Z"
     },
     {
       "id": "shangdaoji",
@@ -133,6 +134,7 @@
       "tagline": "跨平台关注 · 开播提醒 · 弹幕",
       "tags": [
         "良友联名",
+        "频道库",
         "直播聚合",
         "弹幕",
         "开播提醒",
@@ -146,10 +148,10 @@
         94,
         91
       ],
-      "review": "汇流直播把抖音、斗鱼、虎牙、B 站等平台的关注列表与开播状态集中管理，不用在多个 App 间来回找主播。弹幕、画中画与开播提醒让观看和追播更顺手，尤其适合经常跨平台看直播的人。",
+      "review": "汇流直播汇集抖音、斗鱼、虎牙、B 站等直播平台，支持跨平台关注、开播提醒、弹幕和画中画。频道库可集中管理分类频道与直播入口，找节目、追主播都更方便。",
       "status": "published",
       "order": 5,
-      "updatedAt": "2026-11-11T19:45:56.930Z"
+      "updatedAt": "2026-11-11T20:08:42.946Z"
     },
     {
       "id": "komic",
@@ -195,6 +197,7 @@
         "良友联名",
         "应用整理",
         "分类收藏",
+        "限免情报助手",
         "数据导出"
       ],
       "scores": [
@@ -205,10 +208,10 @@
         94,
         96
       ],
-      "review": "应用集适合喜欢收藏、分类和研究 App 的用户。自定义应用集、多种展示视图、分享扩展与数据导出让常用软件更容易整理和回顾，比单纯保存商店链接更有条理。",
+      "review": "应用集可以按主题收藏 App，自定义图标、切换多种展示方式，也支持分享扩展和数据导出。限免情报助手与收藏管理相结合，方便集中发现、整理和回顾感兴趣的软件。",
       "status": "published",
       "order": 7,
-      "updatedAt": "2026-11-11T19:45:56.930Z"
+      "updatedAt": "2026-11-11T20:08:42.946Z"
     },
     {
       "id": "noctra",
@@ -278,27 +281,28 @@
       "version": "",
       "platform": "iOS / iPadOS / macOS / tvOS",
       "icon": "assets/collabs/oopsplayer.webp",
-      "summary": "连接 Emby、Jellyfin、Plex、NAS 和网盘媒体，支持蓝光镜像、字幕及多种格式播放。",
+      "summary": "集中播放 Emby、Jellyfin、Plex、NAS 和网盘内容，兼顾蓝光原盘、字幕、投屏与 CarPlay 车机播放。",
       "tagline": "媒体服务器 · 蓝光镜像 · 字幕支持",
       "tags": [
         "良友联名",
         "Emby",
-        "Jellyfin",
-        "Plex",
-        "蓝光"
+        "CarPlay",
+        "行车播放",
+        "蓝光",
+        "Jellyfin"
       ],
       "scores": [
         96,
-        93,
-        91,
-        93,
         95,
-        86
+        92,
+        94,
+        95,
+        89
       ],
-      "review": "OopsPlayer 能集中播放 Emby、Jellyfin、Plex、NAS 和网盘中的影音内容，多来源管理是主要优势。蓝光 ISO/BDMV、字幕及多格式支持增加了可用场景，很适合有私人影视库的用户。",
+      "review": "OopsPlayer 将 Emby、Jellyfin、Plex、NAS 和网盘媒体集中管理，蓝光原盘、字幕及多格式播放能力丰富。新版本加入 CarPlay 视频功能和设备投屏，让私人影音库在更多屏幕之间切换更方便。",
       "status": "published",
       "order": 10,
-      "updatedAt": "2026-11-11T19:45:56.930Z"
+      "updatedAt": "2026-11-11T20:08:42.946Z"
     },
     {
       "id": "liuyun",
@@ -308,27 +312,28 @@
       "version": "",
       "platform": "iOS / iPadOS",
       "icon": "assets/collabs/liuyun.webp",
-      "summary": "连接 Navidrome、WebDAV 与网盘私人音乐库，提供无损播放、歌单、均衡器和离线缓存。",
+      "summary": "整合 Navidrome、WebDAV 和网盘私人曲库，支持 AI 智能标签与歌单整理、无损播放、均衡器及 CarPlay。",
       "tagline": "私人曲库 · 网盘直连 · 离线播放",
       "tags": [
         "良友联名",
+        "AI功能",
         "Navidrome",
         "WebDAV",
         "无损音乐",
         "CarPlay"
       ],
       "scores": [
-        94,
-        94,
-        91,
+        96,
         95,
-        93,
+        92,
+        94,
+        94,
         90
       ],
-      "review": "流云音乐面向已有私人曲库的用户，把 Navidrome、WebDAV 与网盘音乐放在一起管理。无损播放、离线缓存、歌单整理、均衡器和 CarPlay 听歌覆盖了常见听歌场景，使用方向很明确。",
+      "review": "流云音乐能把 Navidrome、WebDAV 和各类网盘曲库统一管理，支持 FLAC 等无损格式、离线缓存、均衡器和 CarPlay。AI 智能整理可根据歌曲风格、年代与情绪生成标签和歌单，日常找歌、整理私人音乐库更省事。",
       "status": "published",
       "order": 11,
-      "updatedAt": "2026-11-11T19:45:56.930Z"
+      "updatedAt": "2026-11-11T20:08:42.946Z"
     },
     {
       "id": "comink",
@@ -377,17 +382,17 @@
         "截图识别"
       ],
       "scores": [
-        93,
-        93,
-        87,
         95,
-        85,
-        87
+        94,
+        92,
+        95,
+        88,
+        90
       ],
-      "review": "浮屏把取件、取餐、车票等截图中的关键信息整理成锁屏卡片或灵动岛内容，减少了需要时反复翻相册的步骤。分享菜单添加、实时活动与提醒相结合，特别贴合日常短时信息展示。",
+      "review": "浮屏能从取餐码、取件码、车票等截图中整理关键内容，并通过锁屏实时活动、灵动岛和提醒快速展示。分享菜单添加信息很直接，不用频繁打开相册找截图，尤其适合临时凭证管理。",
       "status": "published",
       "order": 13,
-      "updatedAt": "2026-11-11T19:45:56.930Z"
+      "updatedAt": "2026-11-11T20:08:42.946Z"
     },
     {
       "id": "iassets",

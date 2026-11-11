@@ -1,35 +1,36 @@
 {
   "schemaVersion": 1,
-  "updatedAt": "2026-11-11T19:29:42.534Z",
+  "updatedAt": "2026-11-11T19:45:56.930Z",
   "reviews": [
     {
-      "id": "shangdaoji",
-      "name": "上岛记",
-      "category": "生活服务",
-      "subtitle": "信息助手",
-      "version": "v2.4.1",
-      "platform": "iOS / iPadOS",
-      "icon": "assets/lyx/shangdaoji.svg",
-      "summary": "专注日常高频信息管理，离线识别并整理取餐码、快递码、排队号和票据信息，通过灵动岛、实时活动及桌面组件让常用信息随时可见。",
-      "tagline": "识别高效 · 功能完整 · 体验优秀",
+      "id": "senplayer",
+      "name": "SenPlayer",
+      "category": "影音播放",
+      "subtitle": "多媒体与私有媒体库",
+      "version": "",
+      "platform": "iOS / iPadOS / macOS / tvOS",
+      "icon": "assets/collabs/senplayer.webp",
+      "summary": "整合 Emby、Jellyfin、Plex、NAS、网盘和本地视频，提供丰富的字幕、音轨与解码设置。",
+      "tagline": "多源管理 · 字幕音轨 · 跨端播放",
       "tags": [
-        "本地识别",
-        "灵动岛",
-        "锁屏组件",
-        "Apple Watch"
+        "良友联名",
+        "Emby",
+        "Jellyfin",
+        "Plex",
+        "NAS"
       ],
       "scores": [
-        92,
-        91,
-        86,
-        91,
-        89,
-        90
+        99,
+        99,
+        96,
+        98,
+        99,
+        96
       ],
-      "review": "上岛记是一款侧重日常信息管理效率的实用工具，可在设备本地识别并整理取餐码、快递码、排队号、车票机票、验证码、二维码与备忘信息。\n\n它通过灵动岛、实时活动、锁屏与桌面小组件展示重要内容，并兼容 Apple Watch，支持来源标识自定义和智能分类，让不同场景的信息更容易查找。\n\n本地完成识别和数据处理也是它的一项优势。整体定位清晰，功能覆盖丰富，适合需要频繁查看取件、排队或票据信息的用户。",
+      "review": "SenPlayer 能统一连接 Emby、Jellyfin、Plex、NAS、WebDAV 和网盘，省去多个播放器之间切换。字幕、音轨和高规格视频设置丰富，对拥有私人媒体库、经常切换不同片源的用户尤其方便。",
       "status": "published",
       "order": 1,
-      "updatedAt": "2026-11-11T16:00:00Z"
+      "updatedAt": "2026-11-11T19:45:56.930Z"
     },
     {
       "id": "aptv",
@@ -49,75 +50,225 @@
         "iCloud"
       ],
       "scores": [
-        96,
-        95,
-        91,
-        95,
+        98,
         97,
-        89
+        96,
+        98,
+        99,
+        93
       ],
-      "review": "APTV 的优势是频道实时预览、EPG 节目单和多端同步，找台、换台都比较直观，细节设置也丰富。它不提供直播源；回看需要源本身支持，预览速度和频道加载表现也会受源质量影响。",
+      "review": "APTV 把频道实时预览、EPG 节目单、分组管理与多端同步做成一套完整的 IPTV 体验，找频道和切台都很直观。Apple TV、iPhone 与 Mac 之间的使用衔接是亮点；直播效果仍取决于所导入的频道源。",
       "status": "published",
       "order": 2,
-      "updatedAt": "2026-11-11T19:29:42.534Z"
+      "updatedAt": "2026-11-11T19:45:56.930Z"
     },
     {
-      "id": "senplayer",
-      "name": "SenPlayer",
+      "id": "tubo",
+      "name": "途播",
       "category": "影音播放",
-      "subtitle": "多媒体与私有媒体库",
+      "subtitle": "IPTV 与 Apple 多端播放",
       "version": "",
-      "platform": "iOS / iPadOS / macOS / tvOS",
-      "icon": "assets/collabs/senplayer.webp",
-      "summary": "整合 Emby、Jellyfin、Plex、NAS、网盘和本地视频，提供丰富的字幕、音轨与解码设置。",
-      "tagline": "多源管理 · 字幕音轨 · 跨端播放",
+      "platform": "iOS / iPadOS / macOS / tvOS / watchOS",
+      "icon": "assets/collabs/tubo.webp",
+      "summary": "简洁的 IPTV 播放器，支持导入 M3U、M3U8、TXT 源、频道预览、分类收藏和 Apple 多端使用。",
+      "tagline": "IPTV 管理 · 频道预览 · Apple 多端",
+      "tags": [
+        "良友联名",
+        "IPTV",
+        "频道预览",
+        "Apple TV",
+        "CarPlay"
+      ],
+      "scores": [
+        97,
+        97,
+        93,
+        97,
+        98,
+        94
+      ],
+      "review": "途播的 IPTV 入口简洁，M3U、M3U8、TXT 源导入、频道预览及分类收藏都很方便，Apple 多端适配也提升了使用灵活性。针对 CarPlay 的功能探索很有特色，实际可用范围需以系统与车机兼容情况为准，车载视频只宜停车时使用。",
+      "status": "published",
+      "order": 3,
+      "updatedAt": "2026-11-11T19:45:56.930Z"
+    },
+    {
+      "id": "shangdaoji",
+      "name": "上岛记",
+      "category": "生活服务",
+      "subtitle": "信息助手",
+      "version": "v2.4.1",
+      "platform": "iOS / iPadOS",
+      "icon": "assets/lyx/shangdaoji.svg",
+      "summary": "专注日常高频信息管理，离线识别并整理取餐码、快递码、排队号和票据信息，通过灵动岛、实时活动及桌面组件让常用信息随时可见。",
+      "tagline": "识别高效 · 功能完整 · 体验优秀",
+      "tags": [
+        "本地识别",
+        "灵动岛",
+        "锁屏组件",
+        "Apple Watch"
+      ],
+      "scores": [
+        97,
+        96,
+        93,
+        96,
+        94,
+        91
+      ],
+      "review": "上岛记把取餐码、快递码、排队号和票据信息整理成随时可看的卡片，本地识别减少了反复查找截图的麻烦。灵动岛、实时活动、锁屏及 Apple Watch 的联动，是它在日常高频场景中的突出优势。",
+      "status": "published",
+      "order": 4,
+      "updatedAt": "2026-11-11T19:45:56.930Z"
+    },
+    {
+      "id": "conflux",
+      "name": "汇流直播",
+      "category": "直播工具",
+      "subtitle": "多平台直播聚合",
+      "version": "",
+      "platform": "iOS / iPadOS（以商店为准）",
+      "icon": "assets/collabs/conflux.webp",
+      "summary": "将多个直播平台的主播关注、开播提醒和弹幕播放集中管理，支持画中画及多端同步。",
+      "tagline": "跨平台关注 · 开播提醒 · 弹幕",
+      "tags": [
+        "良友联名",
+        "直播聚合",
+        "弹幕",
+        "开播提醒",
+        "画中画"
+      ],
+      "scores": [
+        97,
+        96,
+        93,
+        96,
+        94,
+        91
+      ],
+      "review": "汇流直播把抖音、斗鱼、虎牙、B 站等平台的关注列表与开播状态集中管理，不用在多个 App 间来回找主播。弹幕、画中画与开播提醒让观看和追播更顺手，尤其适合经常跨平台看直播的人。",
+      "status": "published",
+      "order": 5,
+      "updatedAt": "2026-11-11T19:45:56.930Z"
+    },
+    {
+      "id": "komic",
+      "name": "Komic",
+      "category": "漫画阅读",
+      "subtitle": "私有书库与漫画阅读",
+      "version": "",
+      "platform": "iOS / iPadOS",
+      "icon": "assets/collabs/komic.webp",
+      "summary": "统一阅读本地漫画、电子书和有声书，可连接 WebDAV、Komga、Kavita 与 Audiobookshelf。",
+      "tagline": "漫画电子书 · 私有书库 · 离线阅读",
+      "tags": [
+        "良友联名",
+        "漫画",
+        "电子书",
+        "Komga",
+        "WebDAV"
+      ],
+      "scores": [
+        97,
+        96,
+        93,
+        96,
+        95,
+        90
+      ],
+      "review": "Komic 能在一个阅读器里管理漫画、电子书和有声书，支持 WebDAV、Komga、Kavita、Audiobookshelf 等私人书库。离线阅读和进度管理很实用，对有 NAS 或自建书库的用户来说，内容整理更加集中。",
+      "status": "published",
+      "order": 6,
+      "updatedAt": "2026-11-11T19:45:56.930Z"
+    },
+    {
+      "id": "appcollection",
+      "name": "应用集",
+      "category": "效率工具",
+      "subtitle": "应用收藏与分类管理",
+      "version": "",
+      "platform": "iOS / iPadOS",
+      "icon": "assets/collabs/appcollection.webp",
+      "summary": "用自定义应用集和多种视图整理已收藏的 App，支持分享、快捷指令、本地导出与备份。",
+      "tagline": "应用收藏 · 分类整理 · 数据备份",
+      "tags": [
+        "良友联名",
+        "应用整理",
+        "分类收藏",
+        "数据导出"
+      ],
+      "scores": [
+        96,
+        96,
+        93,
+        94,
+        94,
+        96
+      ],
+      "review": "应用集适合喜欢收藏、分类和研究 App 的用户。自定义应用集、多种展示视图、分享扩展与数据导出让常用软件更容易整理和回顾，比单纯保存商店链接更有条理。",
+      "status": "published",
+      "order": 7,
+      "updatedAt": "2026-11-11T19:45:56.930Z"
+    },
+    {
+      "id": "noctra",
+      "name": "Noctra",
+      "category": "影音播放",
+      "subtitle": "私有影音库与追剧助手",
+      "version": "",
+      "platform": "iOS / iPadOS / tvOS",
+      "icon": "assets/collabs/noctra.webp",
+      "summary": "整合 Emby、Jellyfin、Plex、SMB、WebDAV 和本地视频，支持待看、续播与加密设置备份。",
+      "tagline": "媒体库管理 · 待看清单 · 续播备份",
       "tags": [
         "良友联名",
         "Emby",
         "Jellyfin",
         "Plex",
-        "NAS"
+        "待看清单"
+      ],
+      "scores": [
+        96,
+        95,
+        92,
+        94,
+        94,
+        90
+      ],
+      "review": "Noctra 将 Emby、Jellyfin、Plex、SMB 和 WebDAV 等媒体来源与待看清单、续播记录整合到一起。首页栏目可自定义，加密设置备份也有辨识度，适合希望把自己的影音库整理得更清楚的用户。",
+      "status": "published",
+      "order": 8,
+      "updatedAt": "2026-11-11T19:45:56.930Z"
+    },
+    {
+      "id": "hunpi",
+      "name": "魂π",
+      "category": "游戏工具",
+      "subtitle": "主机游戏进度与 Boss 记录",
+      "version": "",
+      "platform": "iOS / iPadOS / watchOS",
+      "icon": "assets/collabs/hunpi.webp",
+      "summary": "将主机与 PC 游戏进度、Boss 挑战和奖杯记录集中管理，可连接游戏平台并与好友约战。",
+      "tagline": "游戏进度 · Boss 记录 · 好友约战",
+      "tags": [
+        "良友联名",
+        "游戏进度",
+        "Boss",
+        "奖杯",
+        "约战"
       ],
       "scores": [
         97,
-        95,
-        93,
         94,
-        96,
-        91
-      ],
-      "review": "SenPlayer 把 Emby、Jellyfin、Plex、SMB、WebDAV 和网盘统一到一个播放器，多音轨、字幕及高规格视频支持比较全面。功能多也意味着设置项较复杂，蓝光镜像和特殊格式仍要结合设备与片源判断。",
-      "status": "published",
-      "order": 3,
-      "updatedAt": "2026-11-11T19:29:42.534Z"
-    },
-    {
-      "id": "roveplayer",
-      "name": "RovePlayer",
-      "category": "影音播放",
-      "subtitle": "处于测试阶段的播放器",
-      "version": "",
-      "platform": "iOS（测试版信息）",
-      "icon": "assets/collabs/roveplayer.webp",
-      "summary": "一款仍以 TestFlight 形式开放的影音播放器，适合希望尝试新客户端的用户。",
-      "tagline": "影音播放 · 测试版 · 持续完善",
-      "tags": [
-        "良友联名",
-        "影音播放",
-        "TestFlight"
-      ],
-      "scores": [
+        90,
+        97,
         92,
-        90,
-        88,
-        90,
-        90,
-        88
+        92
       ],
-      "review": "RovePlayer 目前能确认的公开信息主要是 TestFlight 测试入口与播放器定位，功能文档和长期用户反馈还不充分。适合愿意尝鲜的用户，但媒体库兼容、特殊格式播放和稳定性暂时不宜当作已经验证的优势。",
+      "review": "魂π 把主机与 PC 游戏的游玩进度、Boss 挑战、奖杯及约战信息集中记录。连接 PS、Steam、Xbox 等平台后，更容易回顾游戏历程，适合喜欢记录挑战次数和成就的玩家。",
       "status": "published",
-      "order": 4,
-      "updatedAt": "2026-11-11T19:29:42.534Z"
+      "order": 9,
+      "updatedAt": "2026-11-11T19:45:56.930Z"
     },
     {
       "id": "oopsplayer",
@@ -138,46 +289,16 @@
       ],
       "scores": [
         96,
+        93,
         91,
-        89,
-        89,
-        94,
+        93,
+        95,
         86
       ],
-      "review": "OopsPlayer 的优势是把 Emby、Jellyfin、Plex、NAS 和网盘等来源集中管理，还加入蓝光 ISO/BDMV 和 ASS 字幕支持。媒体源覆盖广，适合有私人影音库的用户；复杂文件播放和字幕细节仍要看版本与设备。",
+      "review": "OopsPlayer 能集中播放 Emby、Jellyfin、Plex、NAS 和网盘中的影音内容，多来源管理是主要优势。蓝光 ISO/BDMV、字幕及多格式支持增加了可用场景，很适合有私人影视库的用户。",
       "status": "published",
-      "order": 5,
-      "updatedAt": "2026-11-11T19:29:42.534Z"
-    },
-    {
-      "id": "conflux",
-      "name": "汇流直播",
-      "category": "直播工具",
-      "subtitle": "多平台直播聚合",
-      "version": "",
-      "platform": "iOS / iPadOS（以商店为准）",
-      "icon": "assets/collabs/conflux.webp",
-      "summary": "将多个直播平台的主播关注、开播提醒和弹幕播放集中管理，支持画中画及多端同步。",
-      "tagline": "跨平台关注 · 开播提醒 · 弹幕",
-      "tags": [
-        "良友联名",
-        "直播聚合",
-        "弹幕",
-        "开播提醒",
-        "画中画"
-      ],
-      "scores": [
-        95,
-        93,
-        87,
-        91,
-        89,
-        85
-      ],
-      "review": "汇流直播把抖音、斗鱼、虎牙、B 站等平台的关注和开播状态集中在一起，弹幕、画中画和开播提醒也比较实用。省去频繁切换平台的麻烦，但第三方平台接口变化可能影响取流和提醒准确率。",
-      "status": "published",
-      "order": 6,
-      "updatedAt": "2026-11-11T19:29:42.534Z"
+      "order": 10,
+      "updatedAt": "2026-11-11T19:45:56.930Z"
     },
     {
       "id": "liuyun",
@@ -198,76 +319,16 @@
       ],
       "scores": [
         94,
-        92,
-        87,
+        94,
         91,
-        89,
-        87
-      ],
-      "review": "流云音乐适合已有 Navidrome 或网盘曲库的人：WebDAV 直连、歌单整理、离线缓存和十段均衡器都很实用，也支持 CarPlay 听歌。网盘授权、曲目数量限制及标签整理体验仍取决于具体来源。",
-      "status": "published",
-      "order": 7,
-      "updatedAt": "2026-11-11T19:29:42.534Z"
-    },
-    {
-      "id": "tubo",
-      "name": "途播",
-      "category": "影音播放",
-      "subtitle": "IPTV 与 Apple 多端播放",
-      "version": "",
-      "platform": "iOS / iPadOS / macOS / tvOS / watchOS",
-      "icon": "assets/collabs/tubo.webp",
-      "summary": "简洁的 IPTV 播放器，支持导入 M3U、M3U8、TXT 源、频道预览、分类收藏和 Apple 多端使用。",
-      "tagline": "IPTV 管理 · 频道预览 · Apple 多端",
-      "tags": [
-        "良友联名",
-        "IPTV",
-        "频道预览",
-        "Apple TV",
-        "CarPlay"
-      ],
-      "scores": [
         95,
         93,
-        88,
-        92,
-        96,
-        87
-      ],
-      "review": "途播的主要优点是界面直接、M3U/M3U8/TXT 导入方便，频道预览和分类收藏也能满足日常 IPTV 使用。部分测试版提供 CarPlay 相关功能，但不同 iOS 与车机环境限制较多，视频仅适合在安全停车时使用。",
-      "status": "published",
-      "order": 8,
-      "updatedAt": "2026-11-11T19:29:42.534Z"
-    },
-    {
-      "id": "komic",
-      "name": "Komic",
-      "category": "漫画阅读",
-      "subtitle": "私有书库与漫画阅读",
-      "version": "",
-      "platform": "iOS / iPadOS",
-      "icon": "assets/collabs/komic.webp",
-      "summary": "统一阅读本地漫画、电子书和有声书，可连接 WebDAV、Komga、Kavita 与 Audiobookshelf。",
-      "tagline": "漫画电子书 · 私有书库 · 离线阅读",
-      "tags": [
-        "良友联名",
-        "漫画",
-        "电子书",
-        "Komga",
-        "WebDAV"
-      ],
-      "scores": [
-        95,
-        94,
-        90,
-        91,
-        94,
         90
       ],
-      "review": "Komic 不只读漫画，还能把电子书、有声书与 WebDAV、Komga、Kavita、Audiobookshelf 私有书库放在一起，支持离线缓存和进度管理。功能覆盖广，适合有个人书库的用户；部分 AI 画质增强及大书库体验仍需根据设备判断。",
+      "review": "流云音乐面向已有私人曲库的用户，把 Navidrome、WebDAV 与网盘音乐放在一起管理。无损播放、离线缓存、歌单整理、均衡器和 CarPlay 听歌覆盖了常见听歌场景，使用方向很明确。",
       "status": "published",
-      "order": 9,
-      "updatedAt": "2026-11-11T19:29:42.534Z"
+      "order": 11,
+      "updatedAt": "2026-11-11T19:45:56.930Z"
     },
     {
       "id": "comink",
@@ -287,46 +348,17 @@
         "Apple TV"
       ],
       "scores": [
-        96,
-        92,
-        87,
-        93,
-        91,
-        89
-      ],
-      "review": "Comink 最大亮点是把 NAS 漫画带到 Apple TV，大屏翻页、SMB/WebDAV、Komga/Kavita 和多格式支持都比较实用。端侧翻译与画质增强增加了特色，但大型漫画包和 AI 处理的流畅度会受设备性能影响。",
-      "status": "published",
-      "order": 10,
-      "updatedAt": "2026-11-11T19:29:42.534Z"
-    },
-    {
-      "id": "carlink",
-      "name": "车联投屏",
-      "category": "车载工具",
-      "subtitle": "iPhone 与车机投屏",
-      "version": "",
-      "platform": "iOS / CarPlay（需兼容车机）",
-      "icon": "assets/collabs/carlink.webp",
-      "summary": "通过兼容的 DLNA/UPnP 投屏路径，在安全停车时把手机支持的媒体内容送到车机屏幕。",
-      "tagline": "DLNA 投屏 · 车机显示 · 停车娱乐",
-      "tags": [
-        "良友联名",
-        "DLNA",
-        "CarPlay",
-        "停车娱乐"
-      ],
-      "scores": [
+        95,
+        94,
         90,
-        86,
-        82,
-        83,
-        81,
-        80
+        93,
+        93,
+        91
       ],
-      "review": "车联投屏面向停车等候场景：兼容 DLNA/UPnP 的应用可将视频投到支持的车机屏幕，使用逻辑不复杂。实际能否成功取决于车机、iOS 版本及播放 App；并非所有软件都能投屏，行驶中不应播放视频。",
+      "review": "Comink 漫画把本地漫画、NAS、Komga 与 Kavita 书库整合起来，并扩展到 Apple TV 大屏阅读。SMB/WebDAV、离线阅读、端侧翻译及画质增强都是实用亮点，适合希望跨设备看漫画的用户。",
       "status": "published",
-      "order": 11,
-      "updatedAt": "2026-11-11T19:29:42.534Z"
+      "order": 12,
+      "updatedAt": "2026-11-11T19:45:56.930Z"
     },
     {
       "id": "floating",
@@ -352,99 +384,10 @@
         85,
         87
       ],
-      "review": "浮屏把取餐码、取件码和车票等截图变成锁屏卡片，不用每次翻相册找数字；从分享菜单添加、设置提醒也方便。它的实用性取决于截图识别是否准确，复杂页面或文字不清的截图仍可能需要手动核对。",
-      "status": "published",
-      "order": 12,
-      "updatedAt": "2026-11-11T19:29:42.534Z"
-    },
-    {
-      "id": "appcollection",
-      "name": "应用集",
-      "category": "效率工具",
-      "subtitle": "应用收藏与分类管理",
-      "version": "",
-      "platform": "iOS / iPadOS",
-      "icon": "assets/collabs/appcollection.webp",
-      "summary": "用自定义应用集和多种视图整理已收藏的 App，支持分享、快捷指令、本地导出与备份。",
-      "tagline": "应用收藏 · 分类整理 · 数据备份",
-      "tags": [
-        "良友联名",
-        "应用整理",
-        "分类收藏",
-        "数据导出"
-      ],
-      "scores": [
-        92,
-        93,
-        89,
-        88,
-        88,
-        93
-      ],
-      "review": "应用集适合经常收集和研究 App 的用户，能按主题分组、换图标、用多种视图查看，还支持分享扩展及数据导出。它解决的是收藏和回顾问题，不是安装器；想看实时价格或限免还需要其他工具。",
+      "review": "浮屏把取件、取餐、车票等截图中的关键信息整理成锁屏卡片或灵动岛内容，减少了需要时反复翻相册的步骤。分享菜单添加、实时活动与提醒相结合，特别贴合日常短时信息展示。",
       "status": "published",
       "order": 13,
-      "updatedAt": "2026-11-11T19:29:42.534Z"
-    },
-    {
-      "id": "noctra",
-      "name": "Noctra",
-      "category": "影音播放",
-      "subtitle": "私有影音库与追剧助手",
-      "version": "",
-      "platform": "iOS / iPadOS / tvOS",
-      "icon": "assets/collabs/noctra.webp",
-      "summary": "整合 Emby、Jellyfin、Plex、SMB、WebDAV 和本地视频，支持待看、续播与加密设置备份。",
-      "tagline": "媒体库管理 · 待看清单 · 续播备份",
-      "tags": [
-        "良友联名",
-        "Emby",
-        "Jellyfin",
-        "Plex",
-        "待看清单"
-      ],
-      "scores": [
-        94,
-        93,
-        90,
-        90,
-        91,
-        87
-      ],
-      "review": "Noctra 把 Emby、Jellyfin、Plex、SMB、WebDAV 与待看、续播记录放到同一个界面，首页栏目自定义和加密设置备份很有辨识度。产品方向清晰，但目前公开评价样本不多，特殊格式兼容与长期稳定性还不能下定论。",
-      "status": "published",
-      "order": 14,
-      "updatedAt": "2026-11-11T19:29:42.534Z"
-    },
-    {
-      "id": "hunpi",
-      "name": "魂π",
-      "category": "游戏工具",
-      "subtitle": "主机游戏进度与 Boss 记录",
-      "version": "",
-      "platform": "iOS / iPadOS / watchOS",
-      "icon": "assets/collabs/hunpi.webp",
-      "summary": "将主机与 PC 游戏进度、Boss 挑战和奖杯记录集中管理，可连接游戏平台并与好友约战。",
-      "tagline": "游戏进度 · Boss 记录 · 好友约战",
-      "tags": [
-        "良友联名",
-        "游戏进度",
-        "Boss",
-        "奖杯",
-        "约战"
-      ],
-      "scores": [
-        95,
-        91,
-        86,
-        95,
-        89,
-        89
-      ],
-      "review": "魂π 的特色是给游戏进度做具体记录：Boss 挑战次数、奖杯、游玩时长和约战进度可以集中查看，也能连接 PS、Steam、Xbox 等平台。对硬核玩家很有吸引力，但跨平台游戏资料匹配仍可能需要手动整理。",
-      "status": "published",
-      "order": 15,
-      "updatedAt": "2026-11-11T19:29:42.534Z"
+      "updatedAt": "2026-11-11T19:45:56.930Z"
     },
     {
       "id": "iassets",
@@ -470,10 +413,38 @@
         89,
         86
       ],
-      "review": "iAssets 知盈适合手动整理多账户资产：现金、负债、证券持仓和多币种趋势可以放在一处查看，界面目标明确。它是资产记录工具而非银行对账系统，行情估值、备份恢复及敏感数据保护需要使用者自行核实。",
+      "review": "iAssets 知盈能把个人及家庭的现金、账户、证券持仓与负债放在同一个资产视图里，多币种统计和趋势图更便于看清变化。自定义分类、备份和长期记录适合有资产整理需求的用户；行情估值应以实际账户信息核对。",
       "status": "published",
-      "order": 16,
-      "updatedAt": "2026-11-11T19:29:42.534Z"
+      "order": 14,
+      "updatedAt": "2026-11-11T19:45:56.930Z"
+    },
+    {
+      "id": "roveplayer",
+      "name": "RovePlayer",
+      "category": "影音播放",
+      "subtitle": "处于测试阶段的播放器",
+      "version": "",
+      "platform": "iOS（测试版信息）",
+      "icon": "assets/collabs/roveplayer.webp",
+      "summary": "一款仍以 TestFlight 形式开放的影音播放器，适合希望尝试新客户端的用户。",
+      "tagline": "影音播放 · 测试版 · 持续完善",
+      "tags": [
+        "良友联名",
+        "影音播放",
+        "TestFlight"
+      ],
+      "scores": [
+        92,
+        90,
+        88,
+        90,
+        90,
+        88
+      ],
+      "review": "RovePlayer 是面向影音播放的新客户端，适合喜欢体验不同播放器界面与交互方式的用户。现阶段公开资料以测试版本为主，仍需继续积累更多关于媒体源兼容与播放表现的实际反馈。",
+      "status": "published",
+      "order": 15,
+      "updatedAt": "2026-11-11T19:45:56.930Z"
     },
     {
       "id": "ringsbox",
@@ -499,10 +470,39 @@
         78,
         92
       ],
-      "review": "铃声盒子把视频提音、录音、波形裁剪、合并和淡入淡出放在一个轻量工具里，做个性来电铃声比较直接。作品主要在本地处理，但设置成系统铃声仍要遵循 iOS 的导入步骤；公开用户评价目前较少。",
+      "review": "铃声盒子把录音、视频提音、波形裁剪、音频合并和淡入淡出整合在一起，制作个性化铃声时不用反复换工具。界面围绕具体任务设计，适合想快速从已有音频里截取铃声的人。",
+      "status": "published",
+      "order": 16,
+      "updatedAt": "2026-11-11T19:45:56.930Z"
+    },
+    {
+      "id": "carlink",
+      "name": "车联投屏",
+      "category": "车载工具",
+      "subtitle": "iPhone 与车机投屏",
+      "version": "",
+      "platform": "iOS / CarPlay（需兼容车机）",
+      "icon": "assets/collabs/carlink.webp",
+      "summary": "通过兼容的 DLNA/UPnP 投屏路径，在安全停车时把手机支持的媒体内容送到车机屏幕。",
+      "tagline": "DLNA 投屏 · 车机显示 · 停车娱乐",
+      "tags": [
+        "良友联名",
+        "DLNA",
+        "CarPlay",
+        "停车娱乐"
+      ],
+      "scores": [
+        90,
+        86,
+        82,
+        83,
+        81,
+        80
+      ],
+      "review": "车联投屏通过兼容的 DLNA/UPnP 路径，把手机里的媒体内容展示到支持的车机屏幕上。对于停车休息时想使用车载屏幕的用户，连接思路清晰、场景明确；可用性取决于车机与播放 App 的兼容情况。",
       "status": "published",
       "order": 17,
-      "updatedAt": "2026-11-11T19:29:42.534Z"
+      "updatedAt": "2026-11-11T19:45:56.930Z"
     }
   ]
 }

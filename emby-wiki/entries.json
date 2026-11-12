@@ -170,7 +170,60 @@
       "reviewNote": "",
       "reviewedAt": "2026-11-11T15:44:44.624Z",
       "publishedAt": "2026-11-11T15:44:44.624Z"
+    },
+    {
+      "id": "wiki-9eb87c61-0cf9-4abb-b160-609038aa7ada",
+      "name": "宸澄",
+      "nature": "公益服",
+      "state": "正常运营",
+      "contents": [
+        "电影",
+        "电视剧",
+        "动漫",
+        "综艺"
+      ],
+      "qualities": [
+        "1080P",
+        "4K",
+        "原盘 / REMUX",
+        "HDR10",
+        "HDR10+",
+        "杜比视界"
+      ],
+      "registration": "活动、抽奖、付费、开放注册",
+      "nickname": "黄豆",
+      "submissionDate": "2026-11-12",
+      "statsDate": "2026-11-12",
+      "movies": 484,
+      "series": 1243,
+      "episodes": 67389,
+      "moviesWithVersions": 575,
+      "seriesWithVersions": 2725,
+      "episodesWithVersions": 108645,
+      "others": null,
+      "summary": "",
+      "network": "保号签到/观保二选一 \n续期500积分兑换",
+      "pricing": "",
+      "statsNote": "",
+      "extraContent": "",
+      "extraQuality": "",
+      "retention": "30 天观影、签到保号、积分保号",
+      "role": "管理员",
+      "website": "https://fk.wybcs.work/",
+      "channel": "https://t.me/ccmoviep",
+      "group": "https://t.me/ccembytv",
+      "bot": "https://t.me/ccwuser_bot",
+      "evidence": "",
+      "coverUrl": "https://raw.githubusercontent.com/MaddestAlistar/Icon-Review-Queue/main/emby-wiki/covers/wiki-9eb87c61-0cf9-4abb-b160-609038aa7ada.jpg",
+      "evidenceImageUrl": "https://raw.githubusercontent.com/MaddestAlistar/Icon-Review-Queue/main/emby-wiki/evidence/wiki-9eb87c61-0cf9-4abb-b160-609038aa7ada.jpg",
+      "status": "pending",
+      "version": 1,
+      "submittedAt": "2026-11-12T06:48:59.443Z",
+      "updatedAt": "2026-11-12T06:48:59.443Z",
+      "digest": "188f0f5ee1e5fb3acd2b4c92bcbedbd0fe69726267cea20bd6e930c49c8ce34d",
+      "clientTag": "5de0d63122cc3ab6cf5f2e88486a2fee2e0785681f571634e1b728fa84ee762a",
+      "reviewNote": ""
     }
   ],
-  "updatedAt": "2026-11-11T15:46:33.742Z"
+  "updatedAt": "2026-11-12T06:48:59.443Z"
 }

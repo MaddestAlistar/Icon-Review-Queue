@@ -223,7 +223,60 @@
       "digest": "188f0f5ee1e5fb3acd2b4c92bcbedbd0fe69726267cea20bd6e930c49c8ce34d",
       "clientTag": "5de0d63122cc3ab6cf5f2e88486a2fee2e0785681f571634e1b728fa84ee762a",
       "reviewNote": ""
+    },
+    {
+      "id": "wiki-332be04d-6aba-4439-9ee6-9754032afaa5",
+      "name": "这只猫",
+      "nature": "公益服",
+      "state": "正常运营",
+      "contents": [
+        "电影",
+        "电视剧",
+        "动漫",
+        "综艺"
+      ],
+      "qualities": [
+        "1080P",
+        "4K",
+        "原盘 / REMUX",
+        "HDR10",
+        "HDR10+",
+        "杜比视界"
+      ],
+      "registration": "活动、抽奖、开放注册、付费",
+      "nickname": "黄豆",
+      "submissionDate": "2026-11-12",
+      "statsDate": "2026-11-12",
+      "movies": 12142,
+      "series": 8026,
+      "episodes": 249852,
+      "moviesWithVersions": 12875,
+      "seriesWithVersions": 8818,
+      "episodesWithVersions": 261094,
+      "others": null,
+      "summary": "需挂梯!✨\n无直连优化，速度取决于你的梯子~🙈\n策略：硬盘142T仅更新爱优腾奈未完结的电影剧集 已完结剧集会转移至网盘\n①开号：\n@zzmeb_bot 点开miniapp 6元\n①续费：签到100猫币自动续期\n②保号：签到100猫币自动续期\n\nemby客户端建议：安卓Hills、windows Hlills、ios senplayer、TV端afusekt\n切勿直接web端播放\nbot\n@zzmeb_bot\n服主\n@greatzha\n客服\n@zzmcare_bot",
+      "network": "",
+      "pricing": "",
+      "statsNote": "",
+      "extraContent": "",
+      "extraQuality": "",
+      "retention": "30 天观影、签到保号、积分保号",
+      "role": "普通用户",
+      "website": "https://t.me/zzmeb_bot",
+      "channel": "https://t.me/zzmnote",
+      "group": "https://t.me/zzmeb",
+      "bot": "https://t.me/zzmeb_bot",
+      "evidence": "",
+      "coverUrl": "https://raw.githubusercontent.com/MaddestAlistar/Icon-Review-Queue/main/emby-wiki/covers/wiki-332be04d-6aba-4439-9ee6-9754032afaa5.jpg",
+      "evidenceImageUrl": "https://raw.githubusercontent.com/MaddestAlistar/Icon-Review-Queue/main/emby-wiki/evidence/wiki-332be04d-6aba-4439-9ee6-9754032afaa5.jpg",
+      "status": "pending",
+      "version": 1,
+      "submittedAt": "2026-11-12T06:58:53.419Z",
+      "updatedAt": "2026-11-12T06:58:53.419Z",
+      "digest": "c4aa837a449afbb1dfec2290a0fe9689952fdd12bf5cfc8d4863b1b23eba422d",
+      "clientTag": "5de0d63122cc3ab6cf5f2e88486a2fee2e0785681f571634e1b728fa84ee762a",
+      "reviewNote": ""
     }
   ],
-  "updatedAt": "2026-11-12T06:48:59.443Z"
+  "updatedAt": "2026-11-12T06:58:53.419Z"
 }

@@ -9,5 +9,13 @@
   "width": 1024,
   "height": 1024,
   "submittedAt": "2026-11-13T16:25:47.054Z",
-  "status": "pending"
+  "status": "approved",
+  "publishedName": "钟陌",
+  "publishedFilename": "icons/liangyou/submission-20261113162543923-9de1668f.png",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261113162543923-9de1668f.png",
+  "publishedAt": "2026-11-13T16:26:16.380Z",
+  "publishedCommit": "14e35f841801535ce327af3ef700c93f6e33be9b",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-11-13T16:26:22.238Z",
+  "reviewedAt": "2026-11-13T16:26:22.238Z"
 }

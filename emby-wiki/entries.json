@@ -383,7 +383,61 @@
       "digest": "74a82d4a1eca762b7962061893257754531625fc17925d58719fe585a4d062a0",
       "clientTag": "575bbb898bcfec1f3bf4dd53552296c60ab5c7498e3e277bbabee30bddc4a39a",
       "reviewNote": ""
+    },
+    {
+      "id": "wiki-f85a3396-51b7-4944-bdac-1690bb26274e",
+      "name": "宸宇",
+      "nature": "公益服",
+      "state": "正常运营",
+      "contents": [
+        "电影",
+        "电视剧",
+        "动漫",
+        "综艺",
+        "纪录片"
+      ],
+      "qualities": [
+        "1080P",
+        "4K",
+        "原盘 / REMUX",
+        "HDR10",
+        "HDR10+",
+        "杜比视界"
+      ],
+      "registration": "开放注册、活动、抽奖、付费、积分开号",
+      "nickname": "黄豆",
+      "submissionDate": "2026-11-13",
+      "statsDate": "2026-11-13",
+      "movies": 4643,
+      "series": 6428,
+      "episodes": 195484,
+      "moviesWithVersions": 4811,
+      "seriesWithVersions": 6475,
+      "episodesWithVersions": 245287,
+      "others": null,
+      "summary": "",
+      "network": "",
+      "pricing": "",
+      "statsNote": "",
+      "extraContent": "",
+      "extraQuality": "",
+      "retention": "发电保号、签到保号",
+      "role": "管理员",
+      "website": "https://vip.dylan.xin/",
+      "channel": "https://t.me/chenyufuwu",
+      "group": "https://t.me/chenyuemby",
+      "bot": "https://t.me/ChenyuEmby_Bot",
+      "evidence": "",
+      "coverUrl": "https://raw.githubusercontent.com/MaddestAlistar/Icon-Review-Queue/main/emby-wiki/covers/wiki-f85a3396-51b7-4944-bdac-1690bb26274e.jpg",
+      "evidenceImageUrl": "https://raw.githubusercontent.com/MaddestAlistar/Icon-Review-Queue/main/emby-wiki/evidence/wiki-f85a3396-51b7-4944-bdac-1690bb26274e.jpg",
+      "status": "pending",
+      "version": 1,
+      "submittedAt": "2026-11-13T07:35:21.122Z",
+      "updatedAt": "2026-11-13T07:35:21.122Z",
+      "digest": "18e20c31bc25ebce8e6c69d9e3c53c99d07fd011919a20f796430fe417549694",
+      "clientTag": "575bbb898bcfec1f3bf4dd53552296c60ab5c7498e3e277bbabee30bddc4a39a",
+      "reviewNote": ""
     }
   ],
-  "updatedAt": "2026-11-13T07:29:52.358Z"
+  "updatedAt": "2026-11-13T07:35:21.122Z"
 }

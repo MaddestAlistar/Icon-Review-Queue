@@ -9,7 +9,7 @@
   "width": 1024,
   "height": 1024,
   "submittedAt": "2026-11-13T16:05:07.288Z",
-  "status": "approved",
+  "status": "withdrawn",
   "publishedName": "蜗牛-蓝",
   "publishedFilename": "icons/liangyou/submission-20261113160504094-9e441c95.png",
   "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261113160504094-9e441c95.png",
@@ -17,5 +17,8 @@
   "publishedCommit": "7c49373421535588b37e2a8873d6ad8f7f66df2e",
   "publisherVersion": "2026-10-26.rename-v5",
   "publicationVerifiedAt": "2026-11-13T16:27:53.307Z",
-  "reviewedAt": "2026-11-13T16:27:53.307Z"
+  "reviewedAt": "2026-11-13T16:43:39.002Z",
+  "withdrawnAt": "2026-11-13T16:43:33.037Z",
+  "withdrawnCommit": "28c94b969b0856c62da8c1300aec657219f65fd3",
+  "withdrawalVerifiedAt": "2026-11-13T16:43:39.002Z"
 }

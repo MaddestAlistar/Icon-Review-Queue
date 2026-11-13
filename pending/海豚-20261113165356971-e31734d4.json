@@ -9,7 +9,7 @@
   "width": 320,
   "height": 320,
   "submittedAt": "2026-11-13T16:53:59.193Z",
-  "status": "pending",
+  "status": "approved",
   "sourceFormat": "livephoto-video",
   "motionSource": "uploaded-video",
   "sourceFilename": "pending/海豚-20261113165356971-e31734d4.mp4",
@@ -17,5 +17,13 @@
   "motionVideoBytes": 273338,
   "conversionStatus": "ready",
   "generatedGifUrl": "https://raw.githubusercontent.com/MaddestAlistar/Icon-Review-Queue/main/pending/海豚-20261113165356971-e31734d4.gif",
-  "convertedAt": "2026-11-13T16:55:51.647660+00:00"
+  "convertedAt": "2026-11-13T16:55:51.647660+00:00",
+  "publishedName": "海豚动态 01",
+  "publishedFilename": "icons/liangyou/submission-20261113165356971-e31734d4-animated.gif",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261113165356971-e31734d4-animated.gif",
+  "publishedAt": "2026-11-13T17:00:00.969Z",
+  "publishedCommit": "6224384e5f695d5f467c9c7eb0ebfe0e5b3e8508",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-11-13T17:00:07.195Z",
+  "reviewedAt": "2026-11-13T17:00:07.195Z"
 }

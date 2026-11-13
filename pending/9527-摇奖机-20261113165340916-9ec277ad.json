@@ -9,7 +9,7 @@
   "width": 320,
   "height": 320,
   "submittedAt": "2026-11-13T16:53:43.526Z",
-  "status": "pending",
+  "status": "approved",
   "sourceFormat": "livephoto-video",
   "motionSource": "uploaded-video",
   "sourceFilename": "pending/9527-摇奖机-20261113165340916-9ec277ad.mp4",
@@ -17,5 +17,13 @@
   "motionVideoBytes": 200672,
   "conversionStatus": "ready",
   "generatedGifUrl": "https://raw.githubusercontent.com/MaddestAlistar/Icon-Review-Queue/main/pending/9527-摇奖机-20261113165340916-9ec277ad.gif",
-  "convertedAt": "2026-11-13T16:55:51.107784+00:00"
+  "convertedAt": "2026-11-13T16:55:51.107784+00:00",
+  "publishedName": "9527-摇奖机动态 01",
+  "publishedFilename": "icons/liangyou/submission-20261113165340916-9ec277ad-animated.gif",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261113165340916-9ec277ad-animated.gif",
+  "publishedAt": "2026-11-13T16:59:37.737Z",
+  "publishedCommit": "f256c27287b880ed2893fc86f5fd2221a64ff866",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-11-13T16:59:42.369Z",
+  "reviewedAt": "2026-11-13T16:59:42.369Z"
 }

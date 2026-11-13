@@ -9,5 +9,13 @@
   "width": 1024,
   "height": 1024,
   "submittedAt": "2026-11-13T16:25:25.528Z",
-  "status": "pending"
+  "status": "approved",
+  "publishedName": "途播",
+  "publishedFilename": "icons/liangyou/submission-20261113162522309-fe6fdff3.png",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261113162522309-fe6fdff3.png",
+  "publishedAt": "2026-11-13T16:27:14.940Z",
+  "publishedCommit": "bf30ee8802d6f94159f4824b8b6cc7fec997d556",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-11-13T16:27:26.658Z",
+  "reviewedAt": "2026-11-13T16:27:26.658Z"
 }

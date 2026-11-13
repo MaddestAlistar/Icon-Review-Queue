@@ -376,13 +376,15 @@
       "evidence": "",
       "coverUrl": "https://raw.githubusercontent.com/MaddestAlistar/Icon-Review-Queue/main/emby-wiki/covers/wiki-ad87b44c-c35e-4f3e-8406-dc18659324e7.jpg",
       "evidenceImageUrl": "https://raw.githubusercontent.com/MaddestAlistar/Icon-Review-Queue/main/emby-wiki/evidence/wiki-ad87b44c-c35e-4f3e-8406-dc18659324e7.jpg",
-      "status": "pending",
-      "version": 1,
+      "status": "approved",
+      "version": 2,
       "submittedAt": "2026-11-13T07:29:52.358Z",
-      "updatedAt": "2026-11-13T07:29:52.358Z",
+      "updatedAt": "2026-11-13T07:39:38.768Z",
       "digest": "74a82d4a1eca762b7962061893257754531625fc17925d58719fe585a4d062a0",
       "clientTag": "575bbb898bcfec1f3bf4dd53552296c60ab5c7498e3e277bbabee30bddc4a39a",
-      "reviewNote": ""
+      "reviewNote": "",
+      "reviewedAt": "2026-11-13T07:39:38.768Z",
+      "publishedAt": "2026-11-13T07:39:38.768Z"
     },
     {
       "id": "wiki-f85a3396-51b7-4944-bdac-1690bb26274e",
@@ -496,5 +498,5 @@
       "publishedAt": "2026-11-13T07:39:31.170Z"
     }
   ],
-  "updatedAt": "2026-11-13T07:39:35.031Z"
+  "updatedAt": "2026-11-13T07:39:38.768Z"
 }

@@ -330,7 +330,60 @@
       "digest": "e1cee6c4052e88c5bd000411e66e14e3c8f9ef7305052f362c4a297dd0ba8ee2",
       "clientTag": "575bbb898bcfec1f3bf4dd53552296c60ab5c7498e3e277bbabee30bddc4a39a",
       "reviewNote": ""
+    },
+    {
+      "id": "wiki-ad87b44c-c35e-4f3e-8406-dc18659324e7",
+      "name": "茶包影视",
+      "nature": "公益服",
+      "state": "正常运营",
+      "contents": [
+        "电影",
+        "电视剧",
+        "动漫",
+        "综艺"
+      ],
+      "qualities": [
+        "1080P",
+        "4K",
+        "原盘 / REMUX",
+        "HDR10",
+        "HDR10+",
+        "杜比视界"
+      ],
+      "registration": "开放注册、活动、抽奖、付费",
+      "nickname": "黄豆",
+      "submissionDate": "2026-11-13",
+      "statsDate": "2026-11-13",
+      "movies": 10379,
+      "series": 6312,
+      "episodes": 194251,
+      "moviesWithVersions": 11453,
+      "seriesWithVersions": 6459,
+      "episodesWithVersions": 200970,
+      "others": null,
+      "summary": "",
+      "network": "",
+      "pricing": "",
+      "statsNote": "",
+      "extraContent": "",
+      "extraQuality": "",
+      "retention": "签到保号",
+      "role": "普通用户",
+      "website": "",
+      "channel": "https://t.me/tbag696",
+      "group": "https://t.me/embychabao",
+      "bot": "https://t.me/tbagemby_bot",
+      "evidence": "",
+      "coverUrl": "https://raw.githubusercontent.com/MaddestAlistar/Icon-Review-Queue/main/emby-wiki/covers/wiki-ad87b44c-c35e-4f3e-8406-dc18659324e7.jpg",
+      "evidenceImageUrl": "https://raw.githubusercontent.com/MaddestAlistar/Icon-Review-Queue/main/emby-wiki/evidence/wiki-ad87b44c-c35e-4f3e-8406-dc18659324e7.jpg",
+      "status": "pending",
+      "version": 1,
+      "submittedAt": "2026-11-13T07:29:52.358Z",
+      "updatedAt": "2026-11-13T07:29:52.358Z",
+      "digest": "74a82d4a1eca762b7962061893257754531625fc17925d58719fe585a4d062a0",
+      "clientTag": "575bbb898bcfec1f3bf4dd53552296c60ab5c7498e3e277bbabee30bddc4a39a",
+      "reviewNote": ""
     }
   ],
-  "updatedAt": "2026-11-13T07:22:49.802Z"
+  "updatedAt": "2026-11-13T07:29:52.358Z"
 }

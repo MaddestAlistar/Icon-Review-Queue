@@ -280,7 +280,57 @@
       "reviewNote": "",
       "reviewedAt": "2026-11-12T16:49:33.874Z",
       "publishedAt": "2026-11-12T16:49:33.874Z"
+    },
+    {
+      "id": "wiki-db81e4fc-0bde-4f43-a45f-ae0e3e7b0d22",
+      "name": "doubon",
+      "nature": "公益服",
+      "state": "正常运营",
+      "contents": [
+        "电影"
+      ],
+      "qualities": [
+        "1080P",
+        "4K",
+        "原盘 / REMUX",
+        "HDR10",
+        "HDR10+",
+        "杜比视界"
+      ],
+      "registration": "开放注册、活动、抽奖",
+      "nickname": "黄豆",
+      "submissionDate": "2026-11-13",
+      "statsDate": "2026-11-13",
+      "movies": 19261,
+      "series": 0,
+      "episodes": 0,
+      "moviesWithVersions": 19261,
+      "seriesWithVersions": 0,
+      "episodesWithVersions": 0,
+      "others": null,
+      "summary": "",
+      "network": "",
+      "pricing": "",
+      "statsNote": "",
+      "extraContent": "",
+      "extraQuality": "",
+      "retention": "无需保号，观看电影凭票据领取账号",
+      "role": "普通用户",
+      "website": "",
+      "channel": "https://t.me/doubonNews",
+      "group": "https://t.me/doubon",
+      "bot": "https://t.me/doubonBot",
+      "evidence": "",
+      "coverUrl": "https://raw.githubusercontent.com/MaddestAlistar/Icon-Review-Queue/main/emby-wiki/covers/wiki-db81e4fc-0bde-4f43-a45f-ae0e3e7b0d22.jpg",
+      "evidenceImageUrl": "https://raw.githubusercontent.com/MaddestAlistar/Icon-Review-Queue/main/emby-wiki/evidence/wiki-db81e4fc-0bde-4f43-a45f-ae0e3e7b0d22.jpg",
+      "status": "pending",
+      "version": 1,
+      "submittedAt": "2026-11-13T07:22:49.802Z",
+      "updatedAt": "2026-11-13T07:22:49.802Z",
+      "digest": "e1cee6c4052e88c5bd000411e66e14e3c8f9ef7305052f362c4a297dd0ba8ee2",
+      "clientTag": "575bbb898bcfec1f3bf4dd53552296c60ab5c7498e3e277bbabee30bddc4a39a",
+      "reviewNote": ""
     }
   ],
-  "updatedAt": "2026-11-12T16:49:43.456Z"
+  "updatedAt": "2026-11-13T07:22:49.802Z"
 }

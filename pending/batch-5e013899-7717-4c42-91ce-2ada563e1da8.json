@@ -11,6 +11,14 @@
   "batchId": "c7d5585b-5013-4556-9358-e8c80eb34209",
   "namesConfirmed": true,
   "imageDigest": "70243aedb106c022ff7468a32303c1c9d971ce6ca3e137039a3042342646dbbf",
-  "status": "pending",
-  "submittedAt": "2026-11-17T13:33:00.246Z"
+  "status": "approved",
+  "submittedAt": "2026-11-17T13:33:00.246Z",
+  "publishedName": "略略略",
+  "publishedFilename": "icons/liangyou/submission-batch-5e013899-7717-4c42-91ce-2ada563e1da8.png",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-batch-5e013899-7717-4c42-91ce-2ada563e1da8.png",
+  "publishedAt": "2026-11-17T13:33:57.029Z",
+  "publishedCommit": "a8bd4e363896c08be114f6117849bdc3fd99ca76",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-11-17T13:34:01.668Z",
+  "reviewedAt": "2026-11-17T13:34:01.668Z"
 }

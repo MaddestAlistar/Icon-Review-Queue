@@ -1,0 +1,16 @@
+{
+  "id": "batch-19bb922e-0761-441d-8e4e-be8e6de58bcc",
+  "name": "BDL",
+  "author": "黄豆",
+  "notes": "",
+  "kind": "静态",
+  "filename": "pending/batch-19bb922e-0761-441d-8e4e-be8e6de58bcc.png",
+  "bytes": 863508,
+  "width": 1024,
+  "height": 1024,
+  "batchId": "7f6b02ba-538a-41ff-9e1c-43b7aa017fa7",
+  "namesConfirmed": true,
+  "imageDigest": "a155cbbfcc4b60d93c7fc31088cc884cacf794dd27f3ab015c1af2b329c869b6",
+  "status": "pending",
+  "submittedAt": "2026-11-17T09:53:38.573Z"
+}

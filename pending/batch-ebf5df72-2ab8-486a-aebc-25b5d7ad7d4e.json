@@ -1,0 +1,16 @@
+{
+  "id": "batch-ebf5df72-2ab8-486a-aebc-25b5d7ad7d4e",
+  "name": "BDL-别打了",
+  "author": "黄豆",
+  "notes": "",
+  "kind": "静态",
+  "filename": "pending/batch-ebf5df72-2ab8-486a-aebc-25b5d7ad7d4e.png",
+  "bytes": 875684,
+  "width": 1024,
+  "height": 1024,
+  "batchId": "7f6b02ba-538a-41ff-9e1c-43b7aa017fa7",
+  "namesConfirmed": true,
+  "imageDigest": "dc57b8a113ff2b40caa9b8af619e01f019f81664eaad3a90992d380d2753fee9",
+  "status": "pending",
+  "submittedAt": "2026-11-17T09:53:32.338Z"
+}

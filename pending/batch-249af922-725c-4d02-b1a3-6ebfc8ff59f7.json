@@ -11,6 +11,14 @@
   "batchId": "c7d5585b-5013-4556-9358-e8c80eb34209",
   "namesConfirmed": true,
   "imageDigest": "301a57afbf7590140995d688936d89e50909bcfc7dd81f8bb3c13fa1c193d26e",
-  "status": "pending",
-  "submittedAt": "2026-11-17T13:33:06.575Z"
+  "status": "approved",
+  "submittedAt": "2026-11-17T13:33:06.575Z",
+  "publishedName": "BDL-别打了 02",
+  "publishedFilename": "icons/liangyou/submission-batch-249af922-725c-4d02-b1a3-6ebfc8ff59f7.png",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-batch-249af922-725c-4d02-b1a3-6ebfc8ff59f7.png",
+  "publishedAt": "2026-11-17T13:33:40.326Z",
+  "publishedCommit": "16f4ee84fc562f20e5bf8505b9c3964ddc0d12f7",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-11-17T13:33:45.437Z",
+  "reviewedAt": "2026-11-17T13:33:45.437Z"
 }

@@ -11,6 +11,14 @@
   "batchId": "7f6b02ba-538a-41ff-9e1c-43b7aa017fa7",
   "namesConfirmed": true,
   "imageDigest": "a155cbbfcc4b60d93c7fc31088cc884cacf794dd27f3ab015c1af2b329c869b6",
-  "status": "pending",
-  "submittedAt": "2026-11-17T09:53:38.573Z"
+  "status": "approved",
+  "submittedAt": "2026-11-17T09:53:38.573Z",
+  "publishedName": "BDL",
+  "publishedFilename": "icons/liangyou/submission-batch-19bb922e-0761-441d-8e4e-be8e6de58bcc.png",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-batch-19bb922e-0761-441d-8e4e-be8e6de58bcc.png",
+  "publishedAt": "2026-11-17T09:54:12.762Z",
+  "publishedCommit": "d4137dd567ca53cfc4f3783566c56083817bc392",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-11-17T09:54:17.951Z",
+  "reviewedAt": "2026-11-17T09:54:17.951Z"
 }

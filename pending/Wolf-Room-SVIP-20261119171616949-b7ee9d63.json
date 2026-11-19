@@ -9,5 +9,13 @@
   "width": 1024,
   "height": 1024,
   "submittedAt": "2026-11-19T17:16:20.111Z",
-  "status": "pending"
+  "status": "approved",
+  "publishedName": "Wolf Room-SVIP",
+  "publishedFilename": "icons/liangyou/submission-20261119171616949-b7ee9d63.png",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261119171616949-b7ee9d63.png",
+  "publishedAt": "2026-11-19T17:16:44.433Z",
+  "publishedCommit": "440e012e4be939e840d09fc00bd710b16c6aae78",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-11-19T17:16:50.295Z",
+  "reviewedAt": "2026-11-19T17:16:50.295Z"
 }

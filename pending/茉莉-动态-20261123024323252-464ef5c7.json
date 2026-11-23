@@ -9,7 +9,7 @@
   "width": 320,
   "height": 320,
   "submittedAt": "2026-11-23T02:43:25.550Z",
-  "status": "pending",
+  "status": "approved",
   "sourceFormat": "livephoto-video",
   "motionSource": "uploaded-video",
   "sourceFilename": "pending/茉莉-动态-20261123024323252-464ef5c7.mp4",
@@ -17,5 +17,13 @@
   "motionVideoBytes": 220660,
   "conversionStatus": "ready",
   "generatedGifUrl": "https://raw.githubusercontent.com/MaddestAlistar/Icon-Review-Queue/main/pending/茉莉-动态-20261123024323252-464ef5c7.gif",
-  "convertedAt": "2026-11-23T02:44:13.766888+00:00"
+  "convertedAt": "2026-11-23T02:44:13.766888+00:00",
+  "publishedName": "茉莉-动态 01",
+  "publishedFilename": "icons/liangyou/submission-20261123024323252-464ef5c7-animated.gif",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261123024323252-464ef5c7-animated.gif",
+  "publishedAt": "2026-11-23T02:45:36.200Z",
+  "publishedCommit": "d51f781f8af9a3cdca04b99291e009fb0bcde390",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-11-23T02:45:41.815Z",
+  "reviewedAt": "2026-11-23T02:45:41.815Z"
 }

@@ -9,7 +9,7 @@
   "width": 320,
   "height": 320,
   "submittedAt": "2026-11-23T06:07:23.853Z",
-  "status": "pending",
+  "status": "approved",
   "sourceFormat": "livephoto-video",
   "motionSource": "uploaded-video",
   "sourceFilename": "pending/moli-20261123060720659-2589cb8c.mp4",
@@ -17,5 +17,13 @@
   "motionVideoBytes": 1024262,
   "conversionStatus": "ready",
   "generatedGifUrl": "https://raw.githubusercontent.com/MaddestAlistar/Icon-Review-Queue/main/pending/moli-20261123060720659-2589cb8c.gif",
-  "convertedAt": "2026-11-23T06:08:28.539850+00:00"
+  "convertedAt": "2026-11-23T06:08:28.539850+00:00",
+  "publishedName": "moli 动态 01",
+  "publishedFilename": "icons/liangyou/submission-20261123060720659-2589cb8c-animated.gif",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261123060720659-2589cb8c-animated.gif",
+  "publishedAt": "2026-11-23T06:10:08.830Z",
+  "publishedCommit": "32e9547142ea97c57242d43ff87ba3e55f0d5258",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-11-23T06:10:14.461Z",
+  "reviewedAt": "2026-11-23T06:10:14.461Z"
 }

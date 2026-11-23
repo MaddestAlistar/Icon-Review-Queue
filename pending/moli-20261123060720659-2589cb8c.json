@@ -4,10 +4,10 @@
   "author": "豆哥",
   "kind": "动态",
   "notes": "",
-  "filename": "pending/moli-20261123060720659-2589cb8c.mp4",
-  "bytes": 1024262,
-  "width": 0,
-  "height": 0,
+  "filename": "pending/moli-20261123060720659-2589cb8c.gif",
+  "bytes": 1416190,
+  "width": 320,
+  "height": 320,
   "submittedAt": "2026-11-23T06:07:23.853Z",
   "status": "pending",
   "sourceFormat": "livephoto-video",
@@ -15,5 +15,7 @@
   "sourceFilename": "pending/moli-20261123060720659-2589cb8c.mp4",
   "sourceBytes": 1024262,
   "motionVideoBytes": 1024262,
-  "conversionStatus": "processing"
+  "conversionStatus": "ready",
+  "generatedGifUrl": "https://raw.githubusercontent.com/MaddestAlistar/Icon-Review-Queue/main/pending/moli-20261123060720659-2589cb8c.gif",
+  "convertedAt": "2026-11-23T06:08:28.539850+00:00"
 }

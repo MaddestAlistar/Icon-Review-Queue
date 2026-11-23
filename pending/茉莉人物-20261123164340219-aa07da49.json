@@ -4,10 +4,10 @@
   "author": "黄豆",
   "kind": "动态",
   "notes": "",
-  "filename": "pending/茉莉人物-20261123164340219-aa07da49.mp4",
-  "bytes": 495600,
-  "width": 0,
-  "height": 0,
+  "filename": "pending/茉莉人物-20261123164340219-aa07da49.gif",
+  "bytes": 1718300,
+  "width": 320,
+  "height": 320,
   "submittedAt": "2026-11-23T16:43:43.469Z",
   "status": "pending",
   "sourceFormat": "livephoto-video",
@@ -15,5 +15,7 @@
   "sourceFilename": "pending/茉莉人物-20261123164340219-aa07da49.mp4",
   "sourceBytes": 495600,
   "motionVideoBytes": 495600,
-  "conversionStatus": "processing"
+  "conversionStatus": "ready",
+  "generatedGifUrl": "https://raw.githubusercontent.com/MaddestAlistar/Icon-Review-Queue/main/pending/茉莉人物-20261123164340219-aa07da49.gif",
+  "convertedAt": "2026-11-23T16:55:08.660732+00:00"
 }

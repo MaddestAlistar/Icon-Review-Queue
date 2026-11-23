@@ -9,7 +9,7 @@
   "width": 320,
   "height": 320,
   "submittedAt": "2026-11-23T16:43:43.469Z",
-  "status": "pending",
+  "status": "approved",
   "sourceFormat": "livephoto-video",
   "motionSource": "uploaded-video",
   "sourceFilename": "pending/茉莉人物-20261123164340219-aa07da49.mp4",
@@ -17,5 +17,13 @@
   "motionVideoBytes": 495600,
   "conversionStatus": "ready",
   "generatedGifUrl": "https://raw.githubusercontent.com/MaddestAlistar/Icon-Review-Queue/main/pending/茉莉人物-20261123164340219-aa07da49.gif",
-  "convertedAt": "2026-11-23T16:55:08.660732+00:00"
+  "convertedAt": "2026-11-23T16:55:08.660732+00:00",
+  "publishedName": "茉莉人物动态 01",
+  "publishedFilename": "icons/liangyou/submission-20261123164340219-aa07da49-animated.gif",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261123164340219-aa07da49-animated.gif",
+  "publishedAt": "2026-11-23T16:56:27.431Z",
+  "publishedCommit": "4c9772b4cb49144bb268a2f998855b9636a08cf9",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-11-23T16:56:33.153Z",
+  "reviewedAt": "2026-11-23T16:56:33.153Z"
 }

@@ -9,5 +9,13 @@
   "width": 1024,
   "height": 1024,
   "submittedAt": "2026-11-23T16:54:33.322Z",
-  "status": "pending"
+  "status": "approved",
+  "publishedName": "茉莉人物",
+  "publishedFilename": "icons/liangyou/submission-20261123165429175-9a6c4be5.png",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261123165429175-9a6c4be5.png",
+  "publishedAt": "2026-11-23T16:54:54.452Z",
+  "publishedCommit": "ff02fbb130204fccf375648818fd271cd812f67d",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-11-23T16:54:59.468Z",
+  "reviewedAt": "2026-11-23T16:54:59.468Z"
 }

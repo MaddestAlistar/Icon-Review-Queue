@@ -4,10 +4,10 @@
   "author": "黄豆",
   "kind": "动态",
   "notes": "",
-  "filename": "pending/益禾堂动态-20261124150703432-6816c9cc.mp4",
-  "bytes": 251048,
-  "width": 0,
-  "height": 0,
+  "filename": "pending/益禾堂动态-20261124150703432-6816c9cc.gif",
+  "bytes": 1339028,
+  "width": 320,
+  "height": 320,
   "submittedAt": "2026-11-24T15:07:06.476Z",
   "status": "pending",
   "sourceFormat": "livephoto-video",
@@ -15,5 +15,7 @@
   "sourceFilename": "pending/益禾堂动态-20261124150703432-6816c9cc.mp4",
   "sourceBytes": 251048,
   "motionVideoBytes": 251048,
-  "conversionStatus": "processing"
+  "conversionStatus": "ready",
+  "generatedGifUrl": "https://raw.githubusercontent.com/MaddestAlistar/Icon-Review-Queue/main/pending/益禾堂动态-20261124150703432-6816c9cc.gif",
+  "convertedAt": "2026-11-24T15:08:11.676123+00:00"
 }

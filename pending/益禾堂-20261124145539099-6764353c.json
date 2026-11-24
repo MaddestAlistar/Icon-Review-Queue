@@ -9,5 +9,13 @@
   "width": 1024,
   "height": 1024,
   "submittedAt": "2026-11-24T14:55:42.836Z",
-  "status": "pending"
+  "status": "approved",
+  "publishedName": "益禾堂",
+  "publishedFilename": "icons/liangyou/submission-20261124145539099-6764353c.png",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261124145539099-6764353c.png",
+  "publishedAt": "2026-11-24T15:08:11.601Z",
+  "publishedCommit": "10c3f1887c7d53291b27028be8a4e47c61011e33",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-11-24T15:08:17.832Z",
+  "reviewedAt": "2026-11-24T15:08:17.832Z"
 }

@@ -9,7 +9,7 @@
   "width": 320,
   "height": 320,
   "submittedAt": "2026-11-24T15:07:06.476Z",
-  "status": "pending",
+  "status": "approved",
   "sourceFormat": "livephoto-video",
   "motionSource": "uploaded-video",
   "sourceFilename": "pending/益禾堂动态-20261124150703432-6816c9cc.mp4",
@@ -17,5 +17,13 @@
   "motionVideoBytes": 251048,
   "conversionStatus": "ready",
   "generatedGifUrl": "https://raw.githubusercontent.com/MaddestAlistar/Icon-Review-Queue/main/pending/益禾堂动态-20261124150703432-6816c9cc.gif",
-  "convertedAt": "2026-11-24T15:08:11.676123+00:00"
+  "convertedAt": "2026-11-24T15:08:11.676123+00:00",
+  "publishedName": "益禾堂动态 01",
+  "publishedFilename": "icons/liangyou/submission-20261124150703432-6816c9cc-animated.gif",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261124150703432-6816c9cc-animated.gif",
+  "publishedAt": "2026-11-24T15:10:16.726Z",
+  "publishedCommit": "2387f0f3f0fc4f052b0ce151528b91a9b15eb9a8",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-11-24T15:10:23.492Z",
+  "reviewedAt": "2026-11-24T15:10:23.492Z"
 }

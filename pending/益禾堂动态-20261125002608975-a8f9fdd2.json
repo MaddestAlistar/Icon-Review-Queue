@@ -10,10 +10,10 @@
     "iv": "N3chQzp1y1ga8nlk",
     "data": "AqhG6kyeOYXYcLy5BILN7MxpDJxd/VtQxOSy+teLgnG+sh1A"
   },
-  "filename": "pending/益禾堂动态-20261125002608975-a8f9fdd2.mp4",
-  "bytes": 6359589,
-  "width": 0,
-  "height": 0,
+  "filename": "pending/益禾堂动态-20261125002608975-a8f9fdd2.gif",
+  "bytes": 1679285,
+  "width": 320,
+  "height": 320,
   "submittedAt": "2026-11-25T00:26:13.858Z",
   "status": "pending",
   "sourceFormat": "livephoto-video",
@@ -21,5 +21,7 @@
   "sourceFilename": "pending/益禾堂动态-20261125002608975-a8f9fdd2.mp4",
   "sourceBytes": 6359589,
   "motionVideoBytes": 6359589,
-  "conversionStatus": "processing"
+  "conversionStatus": "ready",
+  "generatedGifUrl": "https://raw.githubusercontent.com/MaddestAlistar/Icon-Review-Queue/main/pending/益禾堂动态-20261125002608975-a8f9fdd2.gif",
+  "convertedAt": "2026-11-25T00:27:12.084203+00:00"
 }

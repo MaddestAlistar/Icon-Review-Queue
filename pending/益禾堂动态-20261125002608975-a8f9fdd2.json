@@ -1,0 +1,25 @@
+{
+  "id": "20261125002608975-a8f9fdd2",
+  "name": "益禾堂动态",
+  "author": "方糖",
+  "kind": "动态",
+  "notes": "",
+  "contactEmailEncrypted": {
+    "v": 1,
+    "source": "admin",
+    "iv": "N3chQzp1y1ga8nlk",
+    "data": "AqhG6kyeOYXYcLy5BILN7MxpDJxd/VtQxOSy+teLgnG+sh1A"
+  },
+  "filename": "pending/益禾堂动态-20261125002608975-a8f9fdd2.mp4",
+  "bytes": 6359589,
+  "width": 0,
+  "height": 0,
+  "submittedAt": "2026-11-25T00:26:13.858Z",
+  "status": "pending",
+  "sourceFormat": "livephoto-video",
+  "motionSource": "uploaded-video",
+  "sourceFilename": "pending/益禾堂动态-20261125002608975-a8f9fdd2.mp4",
+  "sourceBytes": 6359589,
+  "motionVideoBytes": 6359589,
+  "conversionStatus": "processing"
+}

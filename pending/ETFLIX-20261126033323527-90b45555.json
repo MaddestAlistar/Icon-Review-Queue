@@ -1,0 +1,19 @@
+{
+  "id": "20261126033323527-90b45555",
+  "name": "ETFLIX",
+  "author": "X-x",
+  "kind": "动态",
+  "notes": "",
+  "contactEmailEncrypted": {
+    "v": 1,
+    "source": "admin",
+    "iv": "E2lI0jxhDi7OjHm0",
+    "data": "atGO3vMUfqOzkW+U7dNToMcI+6GMqJqCE3vfVsCgPsUn"
+  },
+  "filename": "pending/ETFLIX-20261126033323527-90b45555.gif",
+  "bytes": 3854911,
+  "width": 320,
+  "height": 320,
+  "submittedAt": "2026-11-26T03:33:26.896Z",
+  "status": "pending"
+}

@@ -15,5 +15,13 @@
   "width": 320,
   "height": 320,
   "submittedAt": "2026-11-26T03:33:26.896Z",
-  "status": "pending"
+  "status": "approved",
+  "publishedName": "ETFLIX 动态 01",
+  "publishedFilename": "icons/liangyou/submission-20261126033323527-90b45555-animated.gif",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261126033323527-90b45555-animated.gif",
+  "publishedAt": "2026-11-27T07:50:42.266Z",
+  "publishedCommit": "2579ba12498b9fb7a5d53174eede1de21ca7bc93",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-11-27T07:50:48.016Z",
+  "reviewedAt": "2026-11-27T07:50:48.016Z"
 }

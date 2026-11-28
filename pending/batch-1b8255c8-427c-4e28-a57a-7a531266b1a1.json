@@ -1,0 +1,16 @@
+{
+  "id": "batch-1b8255c8-427c-4e28-a57a-7a531266b1a1",
+  "name": "十二生肖-虎",
+  "author": "黄豆",
+  "notes": "",
+  "kind": "静态",
+  "filename": "pending/batch-1b8255c8-427c-4e28-a57a-7a531266b1a1.png",
+  "bytes": 778713,
+  "width": 1024,
+  "height": 1024,
+  "batchId": "fa96636f-e34d-46b4-a523-3045b6dfb014",
+  "namesConfirmed": true,
+  "imageDigest": "ad596a2b75e72643ec5efda697a5f0cb3b862c0b0440bb8cd2864cce5363e0ac",
+  "status": "pending",
+  "submittedAt": "2026-11-28T11:19:37.799Z"
+}

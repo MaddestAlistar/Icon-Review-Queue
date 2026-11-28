@@ -1,0 +1,16 @@
+{
+  "id": "batch-e32c5b83-1721-4c0f-a21f-1e3f7bd477ad",
+  "name": "十二生肖-猴",
+  "author": "黄豆",
+  "notes": "",
+  "kind": "静态",
+  "filename": "pending/batch-e32c5b83-1721-4c0f-a21f-1e3f7bd477ad.png",
+  "bytes": 571154,
+  "width": 1024,
+  "height": 1024,
+  "batchId": "fa96636f-e34d-46b4-a523-3045b6dfb014",
+  "namesConfirmed": true,
+  "imageDigest": "70e0cb23b30f117c13da389b44bd2a538827a1eaf41ef3fd6d19b6f4c7bb8b05",
+  "status": "pending",
+  "submittedAt": "2026-11-28T11:20:01.814Z"
+}

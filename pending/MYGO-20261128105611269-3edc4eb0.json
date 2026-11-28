@@ -9,5 +9,13 @@
   "width": 1024,
   "height": 1024,
   "submittedAt": "2026-11-28T10:56:14.753Z",
-  "status": "pending"
+  "status": "approved",
+  "publishedName": "MYGO",
+  "publishedFilename": "icons/liangyou/submission-20261128105611269-3edc4eb0.png",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-20261128105611269-3edc4eb0.png",
+  "publishedAt": "2026-11-28T10:56:50.880Z",
+  "publishedCommit": "19d78da42d81cf4976320ef4c16e2c344a350fb6",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-11-28T10:56:56.953Z",
+  "reviewedAt": "2026-11-28T10:56:56.953Z"
 }

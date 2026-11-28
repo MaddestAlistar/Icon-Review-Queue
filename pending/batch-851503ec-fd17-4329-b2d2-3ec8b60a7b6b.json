@@ -1,0 +1,16 @@
+{
+  "id": "batch-851503ec-fd17-4329-b2d2-3ec8b60a7b6b",
+  "name": "十二生肖-猪",
+  "author": "黄豆",
+  "notes": "",
+  "kind": "静态",
+  "filename": "pending/batch-851503ec-fd17-4329-b2d2-3ec8b60a7b6b.png",
+  "bytes": 620938,
+  "width": 1024,
+  "height": 1024,
+  "batchId": "fa96636f-e34d-46b4-a523-3045b6dfb014",
+  "namesConfirmed": true,
+  "imageDigest": "3d47398ffa5f877a90e8a3981450aa6e663669fec547606adae1c37fd816ae4c",
+  "status": "pending",
+  "submittedAt": "2026-11-28T11:20:07.587Z"
+}

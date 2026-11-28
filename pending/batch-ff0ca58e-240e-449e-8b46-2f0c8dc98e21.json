@@ -11,6 +11,14 @@
   "batchId": "fa96636f-e34d-46b4-a523-3045b6dfb014",
   "namesConfirmed": true,
   "imageDigest": "28fe9bbecb8bb39f6c2ed82fca11d627b6e054acdfb9c22559b6bf70c675b908",
-  "status": "pending",
-  "submittedAt": "2026-11-28T11:19:49.083Z"
+  "status": "approved",
+  "submittedAt": "2026-11-28T11:19:49.083Z",
+  "publishedName": "十二生肖-蛇",
+  "publishedFilename": "icons/liangyou/submission-batch-ff0ca58e-240e-449e-8b46-2f0c8dc98e21.png",
+  "publishedUrl": "https://raw.githubusercontent.com/MaddestAlistar/LiangYou-IconLibrary/main/icons/liangyou/submission-batch-ff0ca58e-240e-449e-8b46-2f0c8dc98e21.png",
+  "publishedAt": "2026-11-28T11:24:48.557Z",
+  "publishedCommit": "ee5fed0d0528d7eaec35661285d9a980417b8b46",
+  "publisherVersion": "2026-10-26.rename-v5",
+  "publicationVerifiedAt": "2026-11-28T11:24:53.837Z",
+  "reviewedAt": "2026-11-28T11:24:53.837Z"
 }
